@@ -1,0 +1,2069 @@
+,zip,city,county,type,Unnamed: 0,lat,lon
+0,90001,Los Angeles,Los Angeles,Standard,0,33.974027,-118.249509
+1,90001,Los Angeles,Los Angeles,Standard,64,33.974027,-118.249509
+2,90001,Los Angeles,Los Angeles,Standard,128,33.974027,-118.249509
+3,90001,Los Angeles,Los Angeles,Standard,192,33.974027,-118.249509
+4,90001,Los Angeles,Los Angeles,Standard,256,33.974027,-118.249509
+5,90001,Los Angeles,Los Angeles,Standard,258,33.974027,-118.249509
+6,90001,Los Angeles,Los Angeles,Standard,268,33.974027,-118.249509
+7,90001,Los Angeles,Los Angeles,Standard,283,33.974027,-118.249509
+8,90001,Los Angeles,Los Angeles,Standard,303,33.974027,-118.249509
+9,90001,Los Angeles,Los Angeles,Standard,343,33.974027,-118.249509
+10,90001,Los Angeles,Los Angeles,Standard,393,33.974027,-118.249509
+11,90001,Los Angeles,Los Angeles,Standard,453,33.974027,-118.249509
+12,90001,Los Angeles,Los Angeles,Standard,517,33.974027,-118.249509
+13,90002,Los Angeles,Los Angeles,Standard,1,33.949099,-118.246737
+14,90002,Los Angeles,Los Angeles,Standard,65,33.949099,-118.246737
+15,90002,Los Angeles,Los Angeles,Standard,129,33.949099,-118.246737
+16,90002,Los Angeles,Los Angeles,Standard,193,33.949099,-118.246737
+17,90002,Los Angeles,Los Angeles,Standard,257,33.949099,-118.246737
+18,90002,Los Angeles,Los Angeles,Standard,259,33.949099,-118.246737
+19,90002,Los Angeles,Los Angeles,Standard,269,33.949099,-118.246737
+20,90002,Los Angeles,Los Angeles,Standard,284,33.949099,-118.246737
+21,90002,Los Angeles,Los Angeles,Standard,304,33.949099,-118.246737
+22,90002,Los Angeles,Los Angeles,Standard,344,33.949099,-118.246737
+23,90002,Los Angeles,Los Angeles,Standard,394,33.949099,-118.246737
+24,90002,Los Angeles,Los Angeles,Standard,454,33.949099,-118.246737
+25,90002,Los Angeles,Los Angeles,Standard,518,33.949099,-118.246737
+26,90003,Los Angeles,Los Angeles,Standard,2,33.964131,-118.272783
+27,90003,Los Angeles,Los Angeles,Standard,66,33.964131,-118.272783
+28,90003,Los Angeles,Los Angeles,Standard,130,33.964131,-118.272783
+29,90003,Los Angeles,Los Angeles,Standard,194,33.964131,-118.272783
+30,90003,Los Angeles,Los Angeles,Standard,260,33.964131,-118.272783
+31,90003,Los Angeles,Los Angeles,Standard,270,33.964131,-118.272783
+32,90003,Los Angeles,Los Angeles,Standard,285,33.964131,-118.272783
+33,90003,Los Angeles,Los Angeles,Standard,305,33.964131,-118.272783
+34,90003,Los Angeles,Los Angeles,Standard,345,33.964131,-118.272783
+35,90003,Los Angeles,Los Angeles,Standard,395,33.964131,-118.272783
+36,90003,Los Angeles,Los Angeles,Standard,455,33.964131,-118.272783
+37,90003,Los Angeles,Los Angeles,Standard,519,33.964131,-118.272783
+38,90004,Los Angeles,Los Angeles,Standard,3,34.076198,-118.310722
+39,90004,Los Angeles,Los Angeles,Standard,67,34.076198,-118.310722
+40,90004,Los Angeles,Los Angeles,Standard,131,34.076198,-118.310722
+41,90004,Los Angeles,Los Angeles,Standard,195,34.076198,-118.310722
+42,90004,Los Angeles,Los Angeles,Standard,261,34.076198,-118.310722
+43,90004,Los Angeles,Los Angeles,Standard,271,34.076198,-118.310722
+44,90004,Los Angeles,Los Angeles,Standard,286,34.076198,-118.310722
+45,90004,Los Angeles,Los Angeles,Standard,306,34.076198,-118.310722
+46,90004,Los Angeles,Los Angeles,Standard,346,34.076198,-118.310722
+47,90004,Los Angeles,Los Angeles,Standard,396,34.076198,-118.310722
+48,90004,Los Angeles,Los Angeles,Standard,456,34.076198,-118.310722
+49,90004,Los Angeles,Los Angeles,Standard,520,34.076198,-118.310722
+50,90005,Los Angeles,Los Angeles,Standard,4,34.059163,-118.306892
+51,90005,Los Angeles,Los Angeles,Standard,68,34.059163,-118.306892
+52,90005,Los Angeles,Los Angeles,Standard,132,34.059163,-118.306892
+53,90005,Los Angeles,Los Angeles,Standard,196,34.059163,-118.306892
+54,90005,Los Angeles,Los Angeles,Standard,262,34.059163,-118.306892
+55,90005,Los Angeles,Los Angeles,Standard,272,34.059163,-118.306892
+56,90005,Los Angeles,Los Angeles,Standard,287,34.059163,-118.306892
+57,90005,Los Angeles,Los Angeles,Standard,307,34.059163,-118.306892
+58,90005,Los Angeles,Los Angeles,Standard,347,34.059163,-118.306892
+59,90005,Los Angeles,Los Angeles,Standard,397,34.059163,-118.306892
+60,90005,Los Angeles,Los Angeles,Standard,457,34.059163,-118.306892
+61,90005,Los Angeles,Los Angeles,Standard,521,34.059163,-118.306892
+62,90006,Los Angeles,Los Angeles,Standard,5,34.048041,-118.294177
+63,90006,Los Angeles,Los Angeles,Standard,69,34.048041,-118.294177
+64,90006,Los Angeles,Los Angeles,Standard,133,34.048041,-118.294177
+65,90006,Los Angeles,Los Angeles,Standard,197,34.048041,-118.294177
+66,90006,Los Angeles,Los Angeles,Standard,263,34.048041,-118.294177
+67,90006,Los Angeles,Los Angeles,Standard,273,34.048041,-118.294177
+68,90006,Los Angeles,Los Angeles,Standard,288,34.048041,-118.294177
+69,90006,Los Angeles,Los Angeles,Standard,308,34.048041,-118.294177
+70,90006,Los Angeles,Los Angeles,Standard,348,34.048041,-118.294177
+71,90006,Los Angeles,Los Angeles,Standard,398,34.048041,-118.294177
+72,90006,Los Angeles,Los Angeles,Standard,458,34.048041,-118.294177
+73,90006,Los Angeles,Los Angeles,Standard,522,34.048041,-118.294177
+74,90007,Los Angeles,Los Angeles,Standard,6,34.028127,-118.28483
+75,90007,Los Angeles,Los Angeles,Standard,70,34.028127,-118.28483
+76,90007,Los Angeles,Los Angeles,Standard,134,34.028127,-118.28483
+77,90007,Los Angeles,Los Angeles,Standard,198,34.028127,-118.28483
+78,90007,Los Angeles,Los Angeles,Standard,264,34.028127,-118.28483
+79,90007,Los Angeles,Los Angeles,Standard,274,34.028127,-118.28483
+80,90007,Los Angeles,Los Angeles,Standard,289,34.028127,-118.28483
+81,90007,Los Angeles,Los Angeles,Standard,309,34.028127,-118.28483
+82,90007,Los Angeles,Los Angeles,Standard,349,34.028127,-118.28483
+83,90007,Los Angeles,Los Angeles,Standard,399,34.028127,-118.28483
+84,90007,Los Angeles,Los Angeles,Standard,459,34.028127,-118.28483
+85,90007,Los Angeles,Los Angeles,Standard,523,34.028127,-118.28483
+86,90008,Los Angeles,Los Angeles,Standard,7,34.009552,-118.346724
+87,90008,Los Angeles,Los Angeles,Standard,71,34.009552,-118.346724
+88,90008,Los Angeles,Los Angeles,Standard,135,34.009552,-118.346724
+89,90008,Los Angeles,Los Angeles,Standard,199,34.009552,-118.346724
+90,90008,Los Angeles,Los Angeles,Standard,265,34.009552,-118.346724
+91,90008,Los Angeles,Los Angeles,Standard,275,34.009552,-118.346724
+92,90008,Los Angeles,Los Angeles,Standard,290,34.009552,-118.346724
+93,90008,Los Angeles,Los Angeles,Standard,310,34.009552,-118.346724
+94,90008,Los Angeles,Los Angeles,Standard,350,34.009552,-118.346724
+95,90008,Los Angeles,Los Angeles,Standard,400,34.009552,-118.346724
+96,90008,Los Angeles,Los Angeles,Standard,460,34.009552,-118.346724
+97,90008,Los Angeles,Los Angeles,Standard,524,34.009552,-118.346724
+98,90010,Los Angeles,Los Angeles,Standard,8,34.062148,-118.315889
+99,90010,Los Angeles,Los Angeles,Standard,72,34.062148,-118.315889
+100,90010,Los Angeles,Los Angeles,Standard,136,34.062148,-118.315889
+101,90010,Los Angeles,Los Angeles,Standard,200,34.062148,-118.315889
+102,90010,Los Angeles,Los Angeles,Standard,266,34.062148,-118.315889
+103,90010,Los Angeles,Los Angeles,Standard,276,34.062148,-118.315889
+104,90010,Los Angeles,Los Angeles,Standard,291,34.062148,-118.315889
+105,90010,Los Angeles,Los Angeles,Standard,311,34.062148,-118.315889
+106,90010,Los Angeles,Los Angeles,Standard,351,34.062148,-118.315889
+107,90010,Los Angeles,Los Angeles,Standard,401,34.062148,-118.315889
+108,90010,Los Angeles,Los Angeles,Standard,461,34.062148,-118.315889
+109,90010,Los Angeles,Los Angeles,Standard,525,34.062148,-118.315889
+110,90011,Los Angeles,Los Angeles,Standard,9,34.00709,-118.25868
+111,90011,Los Angeles,Los Angeles,Standard,73,34.00709,-118.25868
+112,90011,Los Angeles,Los Angeles,Standard,137,34.00709,-118.25868
+113,90011,Los Angeles,Los Angeles,Standard,201,34.00709,-118.25868
+114,90011,Los Angeles,Los Angeles,Standard,267,34.00709,-118.25868
+115,90011,Los Angeles,Los Angeles,Standard,277,34.00709,-118.25868
+116,90011,Los Angeles,Los Angeles,Standard,292,34.00709,-118.25868
+117,90011,Los Angeles,Los Angeles,Standard,312,34.00709,-118.25868
+118,90011,Los Angeles,Los Angeles,Standard,352,34.00709,-118.25868
+119,90011,Los Angeles,Los Angeles,Standard,402,34.00709,-118.25868
+120,90011,Los Angeles,Los Angeles,Standard,462,34.00709,-118.25868
+121,90011,Los Angeles,Los Angeles,Standard,526,34.00709,-118.25868
+122,90012,Los Angeles,Los Angeles,Standard,10,34.065975,-118.238642
+123,90012,Los Angeles,Los Angeles,Standard,74,34.065975,-118.238642
+124,90012,Los Angeles,Los Angeles,Standard,138,34.065975,-118.238642
+125,90012,Los Angeles,Los Angeles,Standard,202,34.065975,-118.238642
+126,90012,Los Angeles,Los Angeles,Standard,278,34.065975,-118.238642
+127,90012,Los Angeles,Los Angeles,Standard,293,34.065975,-118.238642
+128,90012,Los Angeles,Los Angeles,Standard,313,34.065975,-118.238642
+129,90012,Los Angeles,Los Angeles,Standard,353,34.065975,-118.238642
+130,90012,Los Angeles,Los Angeles,Standard,403,34.065975,-118.238642
+131,90012,Los Angeles,Los Angeles,Standard,463,34.065975,-118.238642
+132,90012,Los Angeles,Los Angeles,Standard,527,34.065975,-118.238642
+133,90013,Los Angeles,Los Angeles,Standard,11,34.045406,-118.240454
+134,90013,Los Angeles,Los Angeles,Standard,75,34.045406,-118.240454
+135,90013,Los Angeles,Los Angeles,Standard,139,34.045406,-118.240454
+136,90013,Los Angeles,Los Angeles,Standard,203,34.045406,-118.240454
+137,90013,Los Angeles,Los Angeles,Standard,279,34.045406,-118.240454
+138,90013,Los Angeles,Los Angeles,Standard,294,34.045406,-118.240454
+139,90013,Los Angeles,Los Angeles,Standard,314,34.045406,-118.240454
+140,90013,Los Angeles,Los Angeles,Standard,354,34.045406,-118.240454
+141,90013,Los Angeles,Los Angeles,Standard,404,34.045406,-118.240454
+142,90013,Los Angeles,Los Angeles,Standard,464,34.045406,-118.240454
+143,90013,Los Angeles,Los Angeles,Standard,528,34.045406,-118.240454
+144,90014,Los Angeles,Los Angeles,Standard,12,34.043146,-118.251746
+145,90014,Los Angeles,Los Angeles,Standard,76,34.043146,-118.251746
+146,90014,Los Angeles,Los Angeles,Standard,140,34.043146,-118.251746
+147,90014,Los Angeles,Los Angeles,Standard,204,34.043146,-118.251746
+148,90014,Los Angeles,Los Angeles,Standard,280,34.043146,-118.251746
+149,90014,Los Angeles,Los Angeles,Standard,295,34.043146,-118.251746
+150,90014,Los Angeles,Los Angeles,Standard,315,34.043146,-118.251746
+151,90014,Los Angeles,Los Angeles,Standard,355,34.043146,-118.251746
+152,90014,Los Angeles,Los Angeles,Standard,405,34.043146,-118.251746
+153,90014,Los Angeles,Los Angeles,Standard,465,34.043146,-118.251746
+154,90014,Los Angeles,Los Angeles,Standard,529,34.043146,-118.251746
+155,90015,Los Angeles,Los Angeles,Standard,13,34.039378,-118.2663
+156,90015,Los Angeles,Los Angeles,Standard,77,34.039378,-118.2663
+157,90015,Los Angeles,Los Angeles,Standard,141,34.039378,-118.2663
+158,90015,Los Angeles,Los Angeles,Standard,205,34.039378,-118.2663
+159,90015,Los Angeles,Los Angeles,Standard,281,34.039378,-118.2663
+160,90015,Los Angeles,Los Angeles,Standard,296,34.039378,-118.2663
+161,90015,Los Angeles,Los Angeles,Standard,316,34.039378,-118.2663
+162,90015,Los Angeles,Los Angeles,Standard,356,34.039378,-118.2663
+163,90015,Los Angeles,Los Angeles,Standard,406,34.039378,-118.2663
+164,90015,Los Angeles,Los Angeles,Standard,466,34.039378,-118.2663
+165,90015,Los Angeles,Los Angeles,Standard,530,34.039378,-118.2663
+166,90016,Los Angeles,Los Angeles,Standard,14,34.028332,-118.354337
+167,90016,Los Angeles,Los Angeles,Standard,78,34.028332,-118.354337
+168,90016,Los Angeles,Los Angeles,Standard,142,34.028332,-118.354337
+169,90016,Los Angeles,Los Angeles,Standard,206,34.028332,-118.354337
+170,90016,Los Angeles,Los Angeles,Standard,282,34.028332,-118.354337
+171,90016,Los Angeles,Los Angeles,Standard,297,34.028332,-118.354337
+172,90016,Los Angeles,Los Angeles,Standard,317,34.028332,-118.354337
+173,90016,Los Angeles,Los Angeles,Standard,357,34.028332,-118.354337
+174,90016,Los Angeles,Los Angeles,Standard,407,34.028332,-118.354337
+175,90016,Los Angeles,Los Angeles,Standard,467,34.028332,-118.354337
+176,90016,Los Angeles,Los Angeles,Standard,531,34.028332,-118.354337
+177,90017,Los Angeles,Los Angeles,Standard,15,34.052913,-118.26434
+178,90017,Los Angeles,Los Angeles,Standard,79,34.052913,-118.26434
+179,90017,Los Angeles,Los Angeles,Standard,143,34.052913,-118.26434
+180,90017,Los Angeles,Los Angeles,Standard,207,34.052913,-118.26434
+181,90017,Los Angeles,Los Angeles,Standard,298,34.052913,-118.26434
+182,90017,Los Angeles,Los Angeles,Standard,318,34.052913,-118.26434
+183,90017,Los Angeles,Los Angeles,Standard,358,34.052913,-118.26434
+184,90017,Los Angeles,Los Angeles,Standard,408,34.052913,-118.26434
+185,90017,Los Angeles,Los Angeles,Standard,468,34.052913,-118.26434
+186,90017,Los Angeles,Los Angeles,Standard,532,34.052913,-118.26434
+187,90018,Los Angeles,Los Angeles,Standard,16,34.028887,-118.317183
+188,90018,Los Angeles,Los Angeles,Standard,80,34.028887,-118.317183
+189,90018,Los Angeles,Los Angeles,Standard,144,34.028887,-118.317183
+190,90018,Los Angeles,Los Angeles,Standard,208,34.028887,-118.317183
+191,90018,Los Angeles,Los Angeles,Standard,299,34.028887,-118.317183
+192,90018,Los Angeles,Los Angeles,Standard,319,34.028887,-118.317183
+193,90018,Los Angeles,Los Angeles,Standard,359,34.028887,-118.317183
+194,90018,Los Angeles,Los Angeles,Standard,409,34.028887,-118.317183
+195,90018,Los Angeles,Los Angeles,Standard,469,34.028887,-118.317183
+196,90018,Los Angeles,Los Angeles,Standard,533,34.028887,-118.317183
+197,90019,Los Angeles,Los Angeles,Standard,17,34.049841,-118.33846
+198,90019,Los Angeles,Los Angeles,Standard,81,34.049841,-118.33846
+199,90019,Los Angeles,Los Angeles,Standard,145,34.049841,-118.33846
+200,90019,Los Angeles,Los Angeles,Standard,209,34.049841,-118.33846
+201,90019,Los Angeles,Los Angeles,Standard,300,34.049841,-118.33846
+202,90019,Los Angeles,Los Angeles,Standard,320,34.049841,-118.33846
+203,90019,Los Angeles,Los Angeles,Standard,360,34.049841,-118.33846
+204,90019,Los Angeles,Los Angeles,Standard,410,34.049841,-118.33846
+205,90019,Los Angeles,Los Angeles,Standard,470,34.049841,-118.33846
+206,90019,Los Angeles,Los Angeles,Standard,534,34.049841,-118.33846
+207,90020,Los Angeles,Los Angeles,Standard,18,34.066379,-118.30987
+208,90020,Los Angeles,Los Angeles,Standard,82,34.066379,-118.30987
+209,90020,Los Angeles,Los Angeles,Standard,146,34.066379,-118.30987
+210,90020,Los Angeles,Los Angeles,Standard,210,34.066379,-118.30987
+211,90020,Los Angeles,Los Angeles,Standard,301,34.066379,-118.30987
+212,90020,Los Angeles,Los Angeles,Standard,321,34.066379,-118.30987
+213,90020,Los Angeles,Los Angeles,Standard,361,34.066379,-118.30987
+214,90020,Los Angeles,Los Angeles,Standard,411,34.066379,-118.30987
+215,90020,Los Angeles,Los Angeles,Standard,471,34.066379,-118.30987
+216,90020,Los Angeles,Los Angeles,Standard,535,34.066379,-118.30987
+217,90021,Los Angeles,Los Angeles,Standard,19,34.029036,-118.23787
+218,90021,Los Angeles,Los Angeles,Standard,83,34.029036,-118.23787
+219,90021,Los Angeles,Los Angeles,Standard,147,34.029036,-118.23787
+220,90021,Los Angeles,Los Angeles,Standard,211,34.029036,-118.23787
+221,90021,Los Angeles,Los Angeles,Standard,302,34.029036,-118.23787
+222,90021,Los Angeles,Los Angeles,Standard,322,34.029036,-118.23787
+223,90021,Los Angeles,Los Angeles,Standard,362,34.029036,-118.23787
+224,90021,Los Angeles,Los Angeles,Standard,412,34.029036,-118.23787
+225,90021,Los Angeles,Los Angeles,Standard,472,34.029036,-118.23787
+226,90021,Los Angeles,Los Angeles,Standard,536,34.029036,-118.23787
+227,90022,Los Angeles,Los Angeles,Standard,20,34.023728,-118.156274
+228,90022,Los Angeles,Los Angeles,Standard,84,34.023728,-118.156274
+229,90022,Los Angeles,Los Angeles,Standard,148,34.023728,-118.156274
+230,90022,Los Angeles,Los Angeles,Standard,212,34.023728,-118.156274
+231,90022,Los Angeles,Los Angeles,Standard,323,34.023728,-118.156274
+232,90022,Los Angeles,Los Angeles,Standard,363,34.023728,-118.156274
+233,90022,Los Angeles,Los Angeles,Standard,413,34.023728,-118.156274
+234,90022,Los Angeles,Los Angeles,Standard,473,34.023728,-118.156274
+235,90022,Los Angeles,Los Angeles,Standard,537,34.023728,-118.156274
+236,90023,Los Angeles,Los Angeles,Standard,21,34.022501,-118.199613
+237,90023,Los Angeles,Los Angeles,Standard,85,34.022501,-118.199613
+238,90023,Los Angeles,Los Angeles,Standard,149,34.022501,-118.199613
+239,90023,Los Angeles,Los Angeles,Standard,213,34.022501,-118.199613
+240,90023,Los Angeles,Los Angeles,Standard,324,34.022501,-118.199613
+241,90023,Los Angeles,Los Angeles,Standard,364,34.022501,-118.199613
+242,90023,Los Angeles,Los Angeles,Standard,414,34.022501,-118.199613
+243,90023,Los Angeles,Los Angeles,Standard,474,34.022501,-118.199613
+244,90023,Los Angeles,Los Angeles,Standard,538,34.022501,-118.199613
+245,90024,Los Angeles,Los Angeles,Standard,22,34.065737,-118.435016
+246,90024,Los Angeles,Los Angeles,Standard,86,34.065737,-118.435016
+247,90024,Los Angeles,Los Angeles,Standard,150,34.065737,-118.435016
+248,90024,Los Angeles,Los Angeles,Standard,214,34.065737,-118.435016
+249,90024,Los Angeles,Los Angeles,Standard,325,34.065737,-118.435016
+250,90024,Los Angeles,Los Angeles,Standard,365,34.065737,-118.435016
+251,90024,Los Angeles,Los Angeles,Standard,415,34.065737,-118.435016
+252,90024,Los Angeles,Los Angeles,Standard,475,34.065737,-118.435016
+253,90024,Los Angeles,Los Angeles,Standard,539,34.065737,-118.435016
+254,90025,Los Angeles,Los Angeles,Standard,23,34.045421,-118.445873
+255,90025,Los Angeles,Los Angeles,Standard,87,34.045421,-118.445873
+256,90025,Los Angeles,Los Angeles,Standard,151,34.045421,-118.445873
+257,90025,Los Angeles,Los Angeles,Standard,215,34.045421,-118.445873
+258,90025,Los Angeles,Los Angeles,Standard,326,34.045421,-118.445873
+259,90025,Los Angeles,Los Angeles,Standard,366,34.045421,-118.445873
+260,90025,Los Angeles,Los Angeles,Standard,416,34.045421,-118.445873
+261,90025,Los Angeles,Los Angeles,Standard,476,34.045421,-118.445873
+262,90025,Los Angeles,Los Angeles,Standard,540,34.045421,-118.445873
+263,90026,Los Angeles,Los Angeles,Standard,24,34.080017,-118.262643
+264,90026,Los Angeles,Los Angeles,Standard,88,34.080017,-118.262643
+265,90026,Los Angeles,Los Angeles,Standard,152,34.080017,-118.262643
+266,90026,Los Angeles,Los Angeles,Standard,216,34.080017,-118.262643
+267,90026,Los Angeles,Los Angeles,Standard,327,34.080017,-118.262643
+268,90026,Los Angeles,Los Angeles,Standard,367,34.080017,-118.262643
+269,90026,Los Angeles,Los Angeles,Standard,417,34.080017,-118.262643
+270,90026,Los Angeles,Los Angeles,Standard,477,34.080017,-118.262643
+271,90026,Los Angeles,Los Angeles,Standard,541,34.080017,-118.262643
+272,90027,Los Angeles,Los Angeles,Standard,25,34.127607,-118.296387
+273,90027,Los Angeles,Los Angeles,Standard,89,34.127607,-118.296387
+274,90027,Los Angeles,Los Angeles,Standard,153,34.127607,-118.296387
+275,90027,Los Angeles,Los Angeles,Standard,217,34.127607,-118.296387
+276,90027,Los Angeles,Los Angeles,Standard,328,34.127607,-118.296387
+277,90027,Los Angeles,Los Angeles,Standard,368,34.127607,-118.296387
+278,90027,Los Angeles,Los Angeles,Standard,418,34.127607,-118.296387
+279,90027,Los Angeles,Los Angeles,Standard,478,34.127607,-118.296387
+280,90027,Los Angeles,Los Angeles,Standard,542,34.127607,-118.296387
+281,90028,Los Angeles,Los Angeles,Standard,26,34.099912,-118.326912
+282,90028,Los Angeles,Los Angeles,Standard,90,34.099912,-118.326912
+283,90028,Los Angeles,Los Angeles,Standard,154,34.099912,-118.326912
+284,90028,Los Angeles,Los Angeles,Standard,218,34.099912,-118.326912
+285,90028,Los Angeles,Los Angeles,Standard,329,34.099912,-118.326912
+286,90028,Los Angeles,Los Angeles,Standard,369,34.099912,-118.326912
+287,90028,Los Angeles,Los Angeles,Standard,419,34.099912,-118.326912
+288,90028,Los Angeles,Los Angeles,Standard,479,34.099912,-118.326912
+289,90028,Los Angeles,Los Angeles,Standard,543,34.099912,-118.326912
+290,90029,Los Angeles,Los Angeles,Standard,27,34.089848,-118.294661
+291,90029,Los Angeles,Los Angeles,Standard,91,34.089848,-118.294661
+292,90029,Los Angeles,Los Angeles,Standard,155,34.089848,-118.294661
+293,90029,Los Angeles,Los Angeles,Standard,219,34.089848,-118.294661
+294,90029,Los Angeles,Los Angeles,Standard,330,34.089848,-118.294661
+295,90029,Los Angeles,Los Angeles,Standard,370,34.089848,-118.294661
+296,90029,Los Angeles,Los Angeles,Standard,420,34.089848,-118.294661
+297,90029,Los Angeles,Los Angeles,Standard,480,34.089848,-118.294661
+298,90029,Los Angeles,Los Angeles,Standard,544,34.089848,-118.294661
+299,90031,Los Angeles,Los Angeles,Standard,28,34.085784,-118.206666
+300,90031,Los Angeles,Los Angeles,Standard,92,34.085784,-118.206666
+301,90031,Los Angeles,Los Angeles,Standard,156,34.085784,-118.206666
+302,90031,Los Angeles,Los Angeles,Standard,220,34.085784,-118.206666
+303,90031,Los Angeles,Los Angeles,Standard,331,34.085784,-118.206666
+304,90031,Los Angeles,Los Angeles,Standard,371,34.085784,-118.206666
+305,90031,Los Angeles,Los Angeles,Standard,421,34.085784,-118.206666
+306,90031,Los Angeles,Los Angeles,Standard,481,34.085784,-118.206666
+307,90031,Los Angeles,Los Angeles,Standard,545,34.085784,-118.206666
+308,90032,Los Angeles,Los Angeles,Standard,29,34.078195,-118.185502
+309,90032,Los Angeles,Los Angeles,Standard,93,34.078195,-118.185502
+310,90032,Los Angeles,Los Angeles,Standard,157,34.078195,-118.185502
+311,90032,Los Angeles,Los Angeles,Standard,221,34.078195,-118.185502
+312,90032,Los Angeles,Los Angeles,Standard,332,34.078195,-118.185502
+313,90032,Los Angeles,Los Angeles,Standard,372,34.078195,-118.185502
+314,90032,Los Angeles,Los Angeles,Standard,422,34.078195,-118.185502
+315,90032,Los Angeles,Los Angeles,Standard,482,34.078195,-118.185502
+316,90032,Los Angeles,Los Angeles,Standard,546,34.078195,-118.185502
+317,90033,Los Angeles,Los Angeles,Standard,30,34.047164,-118.206614
+318,90033,Los Angeles,Los Angeles,Standard,94,34.047164,-118.206614
+319,90033,Los Angeles,Los Angeles,Standard,158,34.047164,-118.206614
+320,90033,Los Angeles,Los Angeles,Standard,222,34.047164,-118.206614
+321,90033,Los Angeles,Los Angeles,Standard,333,34.047164,-118.206614
+322,90033,Los Angeles,Los Angeles,Standard,373,34.047164,-118.206614
+323,90033,Los Angeles,Los Angeles,Standard,423,34.047164,-118.206614
+324,90033,Los Angeles,Los Angeles,Standard,483,34.047164,-118.206614
+325,90033,Los Angeles,Los Angeles,Standard,547,34.047164,-118.206614
+326,90034,Los Angeles,Los Angeles,Standard,31,34.030578,-118.399613
+327,90034,Los Angeles,Los Angeles,Standard,95,34.030578,-118.399613
+328,90034,Los Angeles,Los Angeles,Standard,159,34.030578,-118.399613
+329,90034,Los Angeles,Los Angeles,Standard,223,34.030578,-118.399613
+330,90034,Los Angeles,Los Angeles,Standard,334,34.030578,-118.399613
+331,90034,Los Angeles,Los Angeles,Standard,374,34.030578,-118.399613
+332,90034,Los Angeles,Los Angeles,Standard,424,34.030578,-118.399613
+333,90034,Los Angeles,Los Angeles,Standard,484,34.030578,-118.399613
+334,90034,Los Angeles,Los Angeles,Standard,548,34.030578,-118.399613
+335,90035,Los Angeles,Los Angeles,Standard,32,34.051808,-118.383674
+336,90035,Los Angeles,Los Angeles,Standard,96,34.051808,-118.383674
+337,90035,Los Angeles,Los Angeles,Standard,160,34.051808,-118.383674
+338,90035,Los Angeles,Los Angeles,Standard,224,34.051808,-118.383674
+339,90035,Los Angeles,Los Angeles,Standard,335,34.051808,-118.383674
+340,90035,Los Angeles,Los Angeles,Standard,375,34.051808,-118.383674
+341,90035,Los Angeles,Los Angeles,Standard,425,34.051808,-118.383674
+342,90035,Los Angeles,Los Angeles,Standard,485,34.051808,-118.383674
+343,90035,Los Angeles,Los Angeles,Standard,549,34.051808,-118.383674
+344,90036,Los Angeles,Los Angeles,Standard,33,34.07041,-118.35041
+345,90036,Los Angeles,Los Angeles,Standard,97,34.07041,-118.35041
+346,90036,Los Angeles,Los Angeles,Standard,161,34.07041,-118.35041
+347,90036,Los Angeles,Los Angeles,Standard,225,34.07041,-118.35041
+348,90036,Los Angeles,Los Angeles,Standard,336,34.07041,-118.35041
+349,90036,Los Angeles,Los Angeles,Standard,376,34.07041,-118.35041
+350,90036,Los Angeles,Los Angeles,Standard,426,34.07041,-118.35041
+351,90036,Los Angeles,Los Angeles,Standard,486,34.07041,-118.35041
+352,90036,Los Angeles,Los Angeles,Standard,550,34.07041,-118.35041
+353,90037,Los Angeles,Los Angeles,Standard,34,34.002717,-118.287486
+354,90037,Los Angeles,Los Angeles,Standard,98,34.002717,-118.287486
+355,90037,Los Angeles,Los Angeles,Standard,162,34.002717,-118.287486
+356,90037,Los Angeles,Los Angeles,Standard,226,34.002717,-118.287486
+357,90037,Los Angeles,Los Angeles,Standard,337,34.002717,-118.287486
+358,90037,Los Angeles,Los Angeles,Standard,377,34.002717,-118.287486
+359,90037,Los Angeles,Los Angeles,Standard,427,34.002717,-118.287486
+360,90037,Los Angeles,Los Angeles,Standard,487,34.002717,-118.287486
+361,90037,Los Angeles,Los Angeles,Standard,551,34.002717,-118.287486
+362,90038,Los Angeles,Los Angeles,Standard,35,34.088474,-118.325526
+363,90038,Los Angeles,Los Angeles,Standard,99,34.088474,-118.325526
+364,90038,Los Angeles,Los Angeles,Standard,163,34.088474,-118.325526
+365,90038,Los Angeles,Los Angeles,Standard,227,34.088474,-118.325526
+366,90038,Los Angeles,Los Angeles,Standard,338,34.088474,-118.325526
+367,90038,Los Angeles,Los Angeles,Standard,378,34.088474,-118.325526
+368,90038,Los Angeles,Los Angeles,Standard,428,34.088474,-118.325526
+369,90038,Los Angeles,Los Angeles,Standard,488,34.088474,-118.325526
+370,90038,Los Angeles,Los Angeles,Standard,552,34.088474,-118.325526
+371,90039,Los Angeles,Los Angeles,Standard,36,34.111885,-118.261032
+372,90039,Los Angeles,Los Angeles,Standard,100,34.111885,-118.261032
+373,90039,Los Angeles,Los Angeles,Standard,164,34.111885,-118.261032
+374,90039,Los Angeles,Los Angeles,Standard,228,34.111885,-118.261032
+375,90039,Los Angeles,Los Angeles,Standard,339,34.111885,-118.261032
+376,90039,Los Angeles,Los Angeles,Standard,379,34.111885,-118.261032
+377,90039,Los Angeles,Los Angeles,Standard,429,34.111885,-118.261032
+378,90039,Los Angeles,Los Angeles,Standard,489,34.111885,-118.261032
+379,90039,Los Angeles,Los Angeles,Standard,553,34.111885,-118.261032
+380,90040,Los Angeles,Los Angeles,Standard,37,33.994523,-118.149952
+381,90040,Los Angeles,Los Angeles,Standard,101,33.994523,-118.149952
+382,90040,Los Angeles,Los Angeles,Standard,165,33.994523,-118.149952
+383,90040,Los Angeles,Los Angeles,Standard,229,33.994523,-118.149952
+384,90040,Los Angeles,Los Angeles,Standard,340,33.994523,-118.149952
+385,90040,Los Angeles,Los Angeles,Standard,380,33.994523,-118.149952
+386,90040,Los Angeles,Los Angeles,Standard,430,33.994523,-118.149952
+387,90040,Los Angeles,Los Angeles,Standard,490,33.994523,-118.149952
+388,90040,Los Angeles,Los Angeles,Standard,554,33.994523,-118.149952
+389,90041,Los Angeles,Los Angeles,Standard,38,34.137412,-118.207607
+390,90041,Los Angeles,Los Angeles,Standard,102,34.137412,-118.207607
+391,90041,Los Angeles,Los Angeles,Standard,166,34.137412,-118.207607
+392,90041,Los Angeles,Los Angeles,Standard,230,34.137412,-118.207607
+393,90041,Los Angeles,Los Angeles,Standard,341,34.137412,-118.207607
+394,90041,Los Angeles,Los Angeles,Standard,381,34.137412,-118.207607
+395,90041,Los Angeles,Los Angeles,Standard,431,34.137412,-118.207607
+396,90041,Los Angeles,Los Angeles,Standard,491,34.137412,-118.207607
+397,90041,Los Angeles,Los Angeles,Standard,555,34.137412,-118.207607
+398,90042,Los Angeles,Los Angeles,Standard,39,34.114708,-118.192098
+399,90042,Los Angeles,Los Angeles,Standard,103,34.114708,-118.192098
+400,90042,Los Angeles,Los Angeles,Standard,167,34.114708,-118.192098
+401,90042,Los Angeles,Los Angeles,Standard,231,34.114708,-118.192098
+402,90042,Los Angeles,Los Angeles,Standard,342,34.114708,-118.192098
+403,90042,Los Angeles,Los Angeles,Standard,382,34.114708,-118.192098
+404,90042,Los Angeles,Los Angeles,Standard,432,34.114708,-118.192098
+405,90042,Los Angeles,Los Angeles,Standard,492,34.114708,-118.192098
+406,90042,Los Angeles,Los Angeles,Standard,556,34.114708,-118.192098
+407,90043,Los Angeles,Los Angeles,Standard,40,33.988505,-118.336358
+408,90043,Los Angeles,Los Angeles,Standard,104,33.988505,-118.336358
+409,90043,Los Angeles,Los Angeles,Standard,168,33.988505,-118.336358
+410,90043,Los Angeles,Los Angeles,Standard,232,33.988505,-118.336358
+411,90043,Los Angeles,Los Angeles,Standard,383,33.988505,-118.336358
+412,90043,Los Angeles,Los Angeles,Standard,433,33.988505,-118.336358
+413,90043,Los Angeles,Los Angeles,Standard,493,33.988505,-118.336358
+414,90043,Los Angeles,Los Angeles,Standard,557,33.988505,-118.336358
+415,90044,Los Angeles,Los Angeles,Standard,41,33.952725,-118.291904
+416,90044,Los Angeles,Los Angeles,Standard,105,33.952725,-118.291904
+417,90044,Los Angeles,Los Angeles,Standard,169,33.952725,-118.291904
+418,90044,Los Angeles,Los Angeles,Standard,233,33.952725,-118.291904
+419,90044,Los Angeles,Los Angeles,Standard,384,33.952725,-118.291904
+420,90044,Los Angeles,Los Angeles,Standard,434,33.952725,-118.291904
+421,90044,Los Angeles,Los Angeles,Standard,494,33.952725,-118.291904
+422,90044,Los Angeles,Los Angeles,Standard,558,33.952725,-118.291904
+423,90045,Los Angeles,Los Angeles,Standard,42,33.942143,-118.41733
+424,90045,Los Angeles,Los Angeles,Standard,106,33.942143,-118.41733
+425,90045,Los Angeles,Los Angeles,Standard,170,33.942143,-118.41733
+426,90045,Los Angeles,Los Angeles,Standard,234,33.942143,-118.41733
+427,90045,Los Angeles,Los Angeles,Standard,385,33.942143,-118.41733
+428,90045,Los Angeles,Los Angeles,Standard,435,33.942143,-118.41733
+429,90045,Los Angeles,Los Angeles,Standard,495,33.942143,-118.41733
+430,90045,Los Angeles,Los Angeles,Standard,559,33.942143,-118.41733
+431,90046,Los Angeles,Los Angeles,Standard,43,34.10781,-118.362247
+432,90046,Los Angeles,Los Angeles,Standard,107,34.10781,-118.362247
+433,90046,Los Angeles,Los Angeles,Standard,171,34.10781,-118.362247
+434,90046,Los Angeles,Los Angeles,Standard,235,34.10781,-118.362247
+435,90046,Los Angeles,Los Angeles,Standard,386,34.10781,-118.362247
+436,90046,Los Angeles,Los Angeles,Standard,436,34.10781,-118.362247
+437,90046,Los Angeles,Los Angeles,Standard,496,34.10781,-118.362247
+438,90046,Los Angeles,Los Angeles,Standard,560,34.10781,-118.362247
+439,90047,Los Angeles,Los Angeles,Standard,44,33.953617,-118.308429
+440,90047,Los Angeles,Los Angeles,Standard,108,33.953617,-118.308429
+441,90047,Los Angeles,Los Angeles,Standard,172,33.953617,-118.308429
+442,90047,Los Angeles,Los Angeles,Standard,236,33.953617,-118.308429
+443,90047,Los Angeles,Los Angeles,Standard,387,33.953617,-118.308429
+444,90047,Los Angeles,Los Angeles,Standard,437,33.953617,-118.308429
+445,90047,Los Angeles,Los Angeles,Standard,497,33.953617,-118.308429
+446,90047,Los Angeles,Los Angeles,Standard,561,33.953617,-118.308429
+447,90048,Los Angeles,Los Angeles,Standard,45,34.072926,-118.372712
+448,90048,Los Angeles,Los Angeles,Standard,109,34.072926,-118.372712
+449,90048,Los Angeles,Los Angeles,Standard,173,34.072926,-118.372712
+450,90048,Los Angeles,Los Angeles,Standard,237,34.072926,-118.372712
+451,90048,Los Angeles,Los Angeles,Standard,388,34.072926,-118.372712
+452,90048,Los Angeles,Los Angeles,Standard,438,34.072926,-118.372712
+453,90048,Los Angeles,Los Angeles,Standard,498,34.072926,-118.372712
+454,90048,Los Angeles,Los Angeles,Standard,562,34.072926,-118.372712
+455,90049,Los Angeles,Los Angeles,Standard,46,34.09254,-118.491064
+456,90049,Los Angeles,Los Angeles,Standard,110,34.09254,-118.491064
+457,90049,Los Angeles,Los Angeles,Standard,174,34.09254,-118.491064
+458,90049,Los Angeles,Los Angeles,Standard,238,34.09254,-118.491064
+459,90049,Los Angeles,Los Angeles,Standard,389,34.09254,-118.491064
+460,90049,Los Angeles,Los Angeles,Standard,439,34.09254,-118.491064
+461,90049,Los Angeles,Los Angeles,Standard,499,34.09254,-118.491064
+462,90049,Los Angeles,Los Angeles,Standard,563,34.09254,-118.491064
+463,90056,Los Angeles,Los Angeles,Standard,47,33.988047,-118.370361
+464,90056,Los Angeles,Los Angeles,Standard,111,33.988047,-118.370361
+465,90056,Los Angeles,Los Angeles,Standard,175,33.988047,-118.370361
+466,90056,Los Angeles,Los Angeles,Standard,239,33.988047,-118.370361
+467,90056,Los Angeles,Los Angeles,Standard,390,33.988047,-118.370361
+468,90056,Los Angeles,Los Angeles,Standard,440,33.988047,-118.370361
+469,90056,Los Angeles,Los Angeles,Standard,500,33.988047,-118.370361
+470,90056,Los Angeles,Los Angeles,Standard,564,33.988047,-118.370361
+471,90057,Los Angeles,Los Angeles,Standard,48,34.061735,-118.276757
+472,90057,Los Angeles,Los Angeles,Standard,112,34.061735,-118.276757
+473,90057,Los Angeles,Los Angeles,Standard,176,34.061735,-118.276757
+474,90057,Los Angeles,Los Angeles,Standard,240,34.061735,-118.276757
+475,90057,Los Angeles,Los Angeles,Standard,391,34.061735,-118.276757
+476,90057,Los Angeles,Los Angeles,Standard,441,34.061735,-118.276757
+477,90057,Los Angeles,Los Angeles,Standard,501,34.061735,-118.276757
+478,90057,Los Angeles,Los Angeles,Standard,565,34.061735,-118.276757
+479,90058,Los Angeles,Los Angeles,Standard,49,34.002844,-118.2164
+480,90058,Los Angeles,Los Angeles,Standard,113,34.002844,-118.2164
+481,90058,Los Angeles,Los Angeles,Standard,177,34.002844,-118.2164
+482,90058,Los Angeles,Los Angeles,Standard,241,34.002844,-118.2164
+483,90058,Los Angeles,Los Angeles,Standard,392,34.002844,-118.2164
+484,90058,Los Angeles,Los Angeles,Standard,442,34.002844,-118.2164
+485,90058,Los Angeles,Los Angeles,Standard,502,34.002844,-118.2164
+486,90058,Los Angeles,Los Angeles,Standard,566,34.002844,-118.2164
+487,90059,Los Angeles,Los Angeles,Standard,50,33.926262,-118.249883
+488,90059,Los Angeles,Los Angeles,Standard,114,33.926262,-118.249883
+489,90059,Los Angeles,Los Angeles,Standard,178,33.926262,-118.249883
+490,90059,Los Angeles,Los Angeles,Standard,242,33.926262,-118.249883
+491,90059,Los Angeles,Los Angeles,Standard,443,33.926262,-118.249883
+492,90059,Los Angeles,Los Angeles,Standard,503,33.926262,-118.249883
+493,90059,Los Angeles,Los Angeles,Standard,567,33.926262,-118.249883
+494,90061,Los Angeles,Los Angeles,Standard,51,33.92128,-118.274186
+495,90061,Los Angeles,Los Angeles,Standard,115,33.92128,-118.274186
+496,90061,Los Angeles,Los Angeles,Standard,179,33.92128,-118.274186
+497,90061,Los Angeles,Los Angeles,Standard,243,33.92128,-118.274186
+498,90061,Los Angeles,Los Angeles,Standard,444,33.92128,-118.274186
+499,90061,Los Angeles,Los Angeles,Standard,504,33.92128,-118.274186
+500,90061,Los Angeles,Los Angeles,Standard,568,33.92128,-118.274186
+501,90062,Los Angeles,Los Angeles,Standard,52,34.003638,-118.308806
+502,90062,Los Angeles,Los Angeles,Standard,116,34.003638,-118.308806
+503,90062,Los Angeles,Los Angeles,Standard,180,34.003638,-118.308806
+504,90062,Los Angeles,Los Angeles,Standard,244,34.003638,-118.308806
+505,90062,Los Angeles,Los Angeles,Standard,445,34.003638,-118.308806
+506,90062,Los Angeles,Los Angeles,Standard,505,34.003638,-118.308806
+507,90062,Los Angeles,Los Angeles,Standard,569,34.003638,-118.308806
+508,90063,Los Angeles,Los Angeles,Standard,53,34.045105,-118.185914
+509,90063,Los Angeles,Los Angeles,Standard,117,34.045105,-118.185914
+510,90063,Los Angeles,Los Angeles,Standard,181,34.045105,-118.185914
+511,90063,Los Angeles,Los Angeles,Standard,245,34.045105,-118.185914
+512,90063,Los Angeles,Los Angeles,Standard,446,34.045105,-118.185914
+513,90063,Los Angeles,Los Angeles,Standard,506,34.045105,-118.185914
+514,90063,Los Angeles,Los Angeles,Standard,570,34.045105,-118.185914
+515,90064,Los Angeles,Los Angeles,Standard,54,34.037252,-118.423573
+516,90064,Los Angeles,Los Angeles,Standard,118,34.037252,-118.423573
+517,90064,Los Angeles,Los Angeles,Standard,182,34.037252,-118.423573
+518,90064,Los Angeles,Los Angeles,Standard,246,34.037252,-118.423573
+519,90064,Los Angeles,Los Angeles,Standard,447,34.037252,-118.423573
+520,90064,Los Angeles,Los Angeles,Standard,507,34.037252,-118.423573
+521,90064,Los Angeles,Los Angeles,Standard,571,34.037252,-118.423573
+522,90065,Los Angeles,Los Angeles,Standard,55,34.112272,-118.225496
+523,90065,Los Angeles,Los Angeles,Standard,119,34.112272,-118.225496
+524,90065,Los Angeles,Los Angeles,Standard,183,34.112272,-118.225496
+525,90065,Los Angeles,Los Angeles,Standard,247,34.112272,-118.225496
+526,90065,Los Angeles,Los Angeles,Standard,448,34.112272,-118.225496
+527,90065,Los Angeles,Los Angeles,Standard,508,34.112272,-118.225496
+528,90065,Los Angeles,Los Angeles,Standard,572,34.112272,-118.225496
+529,90066,Los Angeles,Los Angeles,Standard,56,34.002028,-118.430656
+530,90066,Los Angeles,Los Angeles,Standard,120,34.002028,-118.430656
+531,90066,Los Angeles,Los Angeles,Standard,184,34.002028,-118.430656
+532,90066,Los Angeles,Los Angeles,Standard,248,34.002028,-118.430656
+533,90066,Los Angeles,Los Angeles,Standard,449,34.002028,-118.430656
+534,90066,Los Angeles,Los Angeles,Standard,509,34.002028,-118.430656
+535,90066,Los Angeles,Los Angeles,Standard,573,34.002028,-118.430656
+536,90067,Los Angeles,Los Angeles,Standard,57,34.057597,-118.413998
+537,90067,Los Angeles,Los Angeles,Standard,121,34.057597,-118.413998
+538,90067,Los Angeles,Los Angeles,Standard,185,34.057597,-118.413998
+539,90067,Los Angeles,Los Angeles,Standard,249,34.057597,-118.413998
+540,90067,Los Angeles,Los Angeles,Standard,450,34.057597,-118.413998
+541,90067,Los Angeles,Los Angeles,Standard,510,34.057597,-118.413998
+542,90067,Los Angeles,Los Angeles,Standard,574,34.057597,-118.413998
+543,90068,Los Angeles,Los Angeles,Standard,58,34.129772,-118.330989
+544,90068,Los Angeles,Los Angeles,Standard,122,34.129772,-118.330989
+545,90068,Los Angeles,Los Angeles,Standard,186,34.129772,-118.330989
+546,90068,Los Angeles,Los Angeles,Standard,250,34.129772,-118.330989
+547,90068,Los Angeles,Los Angeles,Standard,451,34.129772,-118.330989
+548,90068,Los Angeles,Los Angeles,Standard,511,34.129772,-118.330989
+549,90068,Los Angeles,Los Angeles,Standard,575,34.129772,-118.330989
+550,90069,West Hollywood,Los Angeles,Standard,59,34.093831,-118.381697
+551,90069,West Hollywood,Los Angeles,Standard,123,34.093831,-118.381697
+552,90069,West Hollywood,Los Angeles,Standard,187,34.093831,-118.381697
+553,90069,West Hollywood,Los Angeles,Standard,251,34.093831,-118.381697
+554,90069,West Hollywood,Los Angeles,Standard,452,34.093831,-118.381697
+555,90069,West Hollywood,Los Angeles,Standard,512,34.093831,-118.381697
+556,90069,West Hollywood,Los Angeles,Standard,576,34.093831,-118.381697
+557,90071,Los Angeles,Los Angeles,Standard,60,34.052876,-118.254943
+558,90071,Los Angeles,Los Angeles,Standard,124,34.052876,-118.254943
+559,90071,Los Angeles,Los Angeles,Standard,188,34.052876,-118.254943
+560,90071,Los Angeles,Los Angeles,Standard,252,34.052876,-118.254943
+561,90071,Los Angeles,Los Angeles,Standard,513,34.052876,-118.254943
+562,90071,Los Angeles,Los Angeles,Standard,577,34.052876,-118.254943
+563,90077,Los Angeles,Los Angeles,Standard,61,34.108023,-118.456964
+564,90077,Los Angeles,Los Angeles,Standard,125,34.108023,-118.456964
+565,90077,Los Angeles,Los Angeles,Standard,189,34.108023,-118.456964
+566,90077,Los Angeles,Los Angeles,Standard,253,34.108023,-118.456964
+567,90077,Los Angeles,Los Angeles,Standard,514,34.108023,-118.456964
+568,90077,Los Angeles,Los Angeles,Standard,578,34.108023,-118.456964
+569,90079,Los Angeles,Los Angeles,Standard,62,34.040587,-118.255403
+570,90079,Los Angeles,Los Angeles,Standard,126,34.040587,-118.255403
+571,90079,Los Angeles,Los Angeles,Standard,190,34.040587,-118.255403
+572,90079,Los Angeles,Los Angeles,Standard,254,34.040587,-118.255403
+573,90079,Los Angeles,Los Angeles,Standard,515,34.040587,-118.255403
+574,90079,Los Angeles,Los Angeles,Standard,579,34.040587,-118.255403
+575,90094,Playa Vista,Los Angeles,Standard,63,33.975411,-118.416997
+576,90094,Playa Vista,Los Angeles,Standard,127,33.975411,-118.416997
+577,90094,Playa Vista,Los Angeles,Standard,191,33.975411,-118.416997
+578,90094,Playa Vista,Los Angeles,Standard,255,33.975411,-118.416997
+579,90094,Playa Vista,Los Angeles,Standard,516,33.975411,-118.416997
+580,90094,Playa Vista,Los Angeles,Standard,580,33.975411,-118.416997
+581,90201,Bell Gardens,Los Angeles,Standard,581,33.970343,-118.171368
+582,90210,Beverly Hills,Los Angeles,Standard,582,34.100517,-118.41463
+583,90211,Beverly Hills,Los Angeles,Standard,583,34.064958,-118.382979
+584,90212,Beverly Hills,Los Angeles,Standard,584,34.06221,-118.401966
+585,90220,Compton,Los Angeles,Standard,585,33.88151,-118.234451
+586,90221,Compton,Los Angeles,Standard,586,33.885624,-118.205918
+587,90222,Compton,Los Angeles,Standard,587,33.912246,-118.236773
+588,90230,Culver City,Los Angeles,Standard,588,33.997862,-118.393617
+589,90232,Culver City,Los Angeles,Standard,589,34.019323,-118.391902
+590,90240,Downey,Los Angeles,Standard,590,33.955729,-118.118346
+591,90241,Downey,Los Angeles,Standard,591,33.940445,-118.129022
+592,90242,Downey,Los Angeles,Standard,592,33.921793,-118.140588
+593,90245,El Segundo,Los Angeles,Standard,593,33.91714,-118.404267
+594,90247,Gardena,Los Angeles,Standard,594,33.890853,-118.297967
+595,90248,Gardena,Los Angeles,Standard,595,33.878431,-118.284104
+596,90249,Gardena,Los Angeles,Standard,596,33.90139,-118.315697
+597,90250,Hawthorne,Los Angeles,Standard,597,33.914775,-118.348083
+598,90254,Hermosa Beach,Los Angeles,Standard,598,33.864259,-118.399303
+599,90255,Huntington Park,Los Angeles,Standard,599,33.979247,-118.217438
+600,90260,Lawndale,Los Angeles,Standard,600,33.88856,-118.351813
+601,90262,Lynwood,Los Angeles,Standard,601,33.923533,-118.200705
+602,90265,Malibu,Los Angeles,Standard,602,34.066117,-118.846342
+603,90266,Manhattan Beach,Los Angeles,Standard,603,33.889151,-118.402127
+604,90270,Maywood,Los Angeles,Standard,604,33.987729,-118.186597
+605,90272,Pacific Palisades,Los Angeles,Standard,605,34.092567,-118.534363
+606,90274,Palos Verdes Peninsula,Los Angeles,Standard,606,33.780065,-118.372454
+607,90275,Rancho Palos Verdes,Los Angeles,Standard,607,33.753153,-118.367964
+608,90277,Redondo Beach,Los Angeles,Standard,608,33.830006,-118.387124
+609,90278,Redondo Beach,Los Angeles,Standard,609,33.873216,-118.37036
+610,90280,South Gate,Los Angeles,Standard,610,33.944159,-118.192761
+611,90290,Topanga,Los Angeles,Standard,611,34.107752,-118.616218
+612,90291,Venice,Los Angeles,Standard,612,33.993396,-118.465193
+613,90292,Marina Del Rey,Los Angeles,Standard,613,33.976464,-118.455267
+614,90293,Playa Del Rey,Los Angeles,Standard,614,33.947305,-118.439841
+615,90301,Inglewood,Los Angeles,Standard,615,33.956526,-118.358654
+616,90302,Inglewood,Los Angeles,Standard,616,33.975332,-118.355252
+617,90303,Inglewood,Los Angeles,Standard,617,33.939766,-118.331085
+618,90304,Inglewood,Los Angeles,Standard,618,33.937886,-118.358559
+619,90305,Inglewood,Los Angeles,Standard,619,33.958889,-118.330548
+620,90401,Santa Monica,Los Angeles,Standard,620,34.013666,-118.49375
+621,90402,Santa Monica,Los Angeles,Standard,621,34.034666,-118.504039
+622,90403,Santa Monica,Los Angeles,Standard,622,34.030755,-118.492101
+623,90404,Santa Monica,Los Angeles,Standard,623,34.026608,-118.473643
+624,90405,Santa Monica,Los Angeles,Standard,624,34.011312,-118.469762
+625,90501,Torrance,Los Angeles,Standard,625,33.833744,-118.314022
+626,90502,Torrance,Los Angeles,Standard,626,33.833181,-118.292062
+627,90503,Torrance,Los Angeles,Standard,627,33.840398,-118.353715
+628,90504,Torrance,Los Angeles,Standard,628,33.867257,-118.330794
+629,90505,Torrance,Los Angeles,Standard,629,33.807882,-118.347957
+630,90506,Torrance,Los Angeles,Standard,630,33.884696,-118.329998
+631,90601,Whittier,Los Angeles,Standard,631,34.00784,-118.030271
+632,90602,Whittier,Los Angeles,Standard,632,33.972782,-118.022066
+633,90603,Whittier,Los Angeles,Standard,633,33.945555,-117.990719
+634,90604,Whittier,Los Angeles,Standard,634,33.927691,-118.013828
+635,90605,Whittier,Los Angeles,Standard,635,33.950295,-118.024351
+636,90606,Whittier,Los Angeles,Standard,636,33.977272,-118.066363
+637,90620,Buena Park,Orange,Standard,637,33.845223,-118.015292
+638,90621,Buena Park,Orange,Standard,638,33.874224,-117.993368
+639,90623,La Palma,Orange,Standard,639,33.850616,-118.039565
+640,90630,Cypress,Orange,Standard,640,33.818477,-118.038307
+641,90631,La Habra,Orange,Standard,641,33.942708,-117.952483
+642,90638,La Mirada,Los Angeles,Standard,642,33.902045,-118.008961
+643,90640,Montebello,Los Angeles,Standard,643,34.015444,-118.111012
+644,90650,Norwalk,Los Angeles,Standard,644,33.906956,-118.08264
+645,90660,Pico Rivera,Los Angeles,Standard,645,33.989524,-118.089299
+646,90670,Santa Fe Springs,Los Angeles,Standard,646,33.933565,-118.062611
+647,90680,Stanton,Orange,Standard,647,33.801187,-117.994904
+648,90701,Artesia,Los Angeles,Standard,648,33.8676,-118.080612
+649,90703,Cerritos,Los Angeles,Standard,649,33.867743,-118.069472
+650,90706,Bellflower,Los Angeles,Standard,650,33.887821,-118.12725
+651,90710,Harbor City,Los Angeles,Standard,651,33.799904,-118.298661
+652,90712,Lakewood,Los Angeles,Standard,652,33.849034,-118.147902
+653,90713,Lakewood,Los Angeles,Standard,653,33.847989,-118.112601
+654,90715,Lakewood,Los Angeles,Standard,654,33.841027,-118.079141
+655,90716,Hawaiian Gardens,Los Angeles,Standard,655,33.830482,-118.073451
+656,90717,Lomita,Los Angeles,Standard,656,33.793809,-118.31717
+657,90720,Los Alamitos,Orange,Standard,657,33.795012,-118.062691
+658,90723,Paramount,Los Angeles,Standard,658,33.898883,-118.166629
+659,90731,San Pedro,Los Angeles,Standard,659,33.736346,-118.279183
+660,90732,San Pedro,Los Angeles,Standard,660,33.74212,-118.312878
+661,90740,Seal Beach,Orange,Standard,661,33.758405,-118.075043
+662,90744,Wilmington,Los Angeles,Standard,662,33.779285,-118.261724
+663,90745,Carson,Los Angeles,Standard,663,33.822725,-118.264109
+664,90746,Carson,Los Angeles,Standard,664,33.859171,-118.252273
+665,90755,Signal Hill,Los Angeles,Standard,665,33.803431,-118.16977
+666,90802,Long Beach,Los Angeles,Standard,666,33.745762,-118.208042
+667,90803,Long Beach,Los Angeles,Standard,667,33.756289,-118.130636
+668,90804,Long Beach,Los Angeles,Standard,668,33.781686,-118.148365
+669,90805,Long Beach,Los Angeles,Standard,669,33.864617,-118.180567
+670,90806,Long Beach,Los Angeles,Standard,670,33.805401,-118.187701
+671,90807,Long Beach,Los Angeles,Standard,671,33.82774,-118.17482
+672,90808,Long Beach,Los Angeles,Standard,672,33.823943,-118.111335
+673,90810,Long Beach,Los Angeles,Standard,673,33.819814,-118.222416
+674,90813,Long Beach,Los Angeles,Standard,674,33.782259,-118.196793
+675,90814,Long Beach,Los Angeles,Standard,675,33.771616,-118.143631
+676,90815,Long Beach,Los Angeles,Standard,676,33.794348,-118.116391
+677,90822,Long Beach,Los Angeles,Standard,677,33.778436,-118.118648
+678,90831,Long Beach,Los Angeles,Standard,678,33.768334,-118.201636
+679,91001,Altadena,Los Angeles,Standard,679,34.194489,-118.138263
+680,91006,Arcadia,Los Angeles,Standard,680,34.136258,-118.026704
+681,91007,Arcadia,Los Angeles,Standard,681,34.128284,-118.047732
+682,91008,Duarte,Los Angeles,Standard,682,34.153159,-117.968818
+683,91010,Duarte,Los Angeles,Standard,683,34.141586,-117.957627
+684,91011,La Canada Flintridge,Los Angeles,Standard,684,34.222119,-118.205306
+685,91016,Monrovia,Los Angeles,Standard,685,34.1528,-118.000482
+686,91020,Montrose,Los Angeles,Standard,686,34.211344,-118.230655
+687,91024,Sierra Madre,Los Angeles,Standard,687,34.168771,-118.050216
+688,91030,South Pasadena,Los Angeles,Standard,688,34.108957,-118.156615
+689,91040,Sunland,Los Angeles,Standard,689,34.261962,-118.336078
+690,91042,Tujunga,Los Angeles,Standard,690,34.322618,-118.23757
+691,91101,Pasadena,Los Angeles,Standard,691,34.146665,-118.139459
+692,91103,Pasadena,Los Angeles,Standard,692,34.169538,-118.164941
+693,91104,Pasadena,Los Angeles,Standard,693,34.165355,-118.123751
+694,91105,Pasadena,Los Angeles,Standard,694,34.13946,-118.166648
+695,91106,Pasadena,Los Angeles,Standard,695,34.139402,-118.128659
+696,91107,Pasadena,Los Angeles,Standard,696,34.155533,-118.086178
+697,91108,San Marino,Los Angeles,Standard,697,34.122671,-118.112911
+698,91201,Glendale,Los Angeles,Standard,698,34.17051,-118.289463
+699,91202,Glendale,Los Angeles,Standard,699,34.168366,-118.267771
+700,91203,Glendale,Los Angeles,Standard,700,34.153337,-118.262974
+701,91204,Glendale,Los Angeles,Standard,701,34.136193,-118.260934
+702,91205,Glendale,Los Angeles,Standard,702,34.13658,-118.245839
+703,91206,Glendale,Los Angeles,Standard,703,34.160359,-118.213769
+704,91207,Glendale,Los Angeles,Standard,704,34.181293,-118.260278
+705,91208,Glendale,Los Angeles,Standard,705,34.185665,-118.239497
+706,91210,Glendale,Los Angeles,Standard,706,34.144557,-118.256507
+707,91214,La Crescenta,Los Angeles,Standard,707,34.236302,-118.249185
+708,91301,Agoura Hills,Los Angeles,Standard,708,34.123286,-118.758541
+709,91302,Calabasas,Los Angeles,Standard,709,34.123305,-118.671025
+710,91303,Canoga Park,Los Angeles,Standard,710,34.198292,-118.600914
+711,91304,Canoga Park,Los Angeles,Standard,711,34.224192,-118.632384
+712,91306,Winnetka,Los Angeles,Standard,712,34.209532,-118.577563
+713,91307,West Hills,Los Angeles,Standard,713,34.200834,-118.6649
+714,91311,Chatsworth,Los Angeles,Standard,714,34.293343,-118.603123
+715,91316,Encino,Los Angeles,Standard,715,34.160236,-118.515472
+716,91320,Newbury Park,Ventura,Standard,716,34.175961,-118.945108
+717,91321,Newhall,Los Angeles,Standard,717,34.36811,-118.489038
+718,91324,Northridge,Los Angeles,Standard,718,34.238208,-118.55029
+719,91325,Northridge,Los Angeles,Standard,719,34.237519,-118.517712
+720,91326,Porter Ranch,Los Angeles,Standard,720,34.281486,-118.556005
+721,91331,Pacoima,Los Angeles,Standard,721,34.255442,-118.421313
+722,91335,Reseda,Los Angeles,Standard,722,34.200175,-118.540958
+723,91340,San Fernando,Los Angeles,Standard,723,34.286687,-118.43508
+724,91342,Sylmar,Los Angeles,Standard,724,34.326585,-118.382261
+725,91343,North Hills,Los Angeles,Standard,725,34.237912,-118.482306
+726,91344,Granada Hills,Los Angeles,Standard,726,34.294615,-118.507001
+727,91345,Mission Hills,Los Angeles,Standard,727,34.265879,-118.456748
+728,91350,Santa Clarita,Los Angeles,Standard,728,34.440891,-118.501747
+729,91351,Canyon Country,Los Angeles,Standard,729,34.441595,-118.448112
+730,91352,Sun Valley,Los Angeles,Standard,730,34.230854,-118.365856
+731,91354,Valencia,Los Angeles,Standard,731,34.465755,-118.553789
+732,91355,Valencia,Los Angeles,Standard,732,34.440248,-118.643992
+733,91356,Tarzana,Los Angeles,Standard,733,34.155097,-118.547553
+734,91360,Thousand Oaks,Ventura,Standard,734,34.212716,-118.882102
+735,91361,Westlake Village,Ventura,Standard,735,34.136077,-118.888919
+736,91362,Thousand Oaks,Ventura,Standard,736,34.193326,-118.818681
+737,91364,Woodland Hills,Los Angeles,Standard,737,34.15404,-118.593153
+738,91367,Woodland Hills,Los Angeles,Standard,738,34.17731,-118.615704
+739,91377,Oak Park,Ventura,Standard,739,34.184974,-118.766912
+740,91381,Stevenson Ranch,Los Angeles,Standard,740,34.384696,-118.647244
+741,91384,Castaic,Los Angeles,Standard,741,34.506627,-118.699048
+742,91387,Canyon Country,Los Angeles,Standard,742,34.402509,-118.363427
+743,91390,Santa Clarita,Los Angeles,Standard,743,34.545587,-118.420095
+744,91401,Van Nuys,Los Angeles,Standard,744,34.178483,-118.431791
+745,91402,Panorama City,Los Angeles,Standard,745,34.222506,-118.444689
+746,91403,Sherman Oaks,Los Angeles,Standard,746,34.147149,-118.463365
+747,91405,Van Nuys,Los Angeles,Standard,747,34.199824,-118.447609
+748,91406,Van Nuys,Los Angeles,Standard,748,34.195685,-118.490752
+749,91411,Van Nuys,Los Angeles,Standard,749,34.178522,-118.459234
+750,91423,Sherman Oaks,Los Angeles,Standard,750,34.148617,-118.433298
+751,91436,Encino,Los Angeles,Standard,751,34.149588,-118.489708
+752,91501,Burbank,Los Angeles,Standard,752,34.2044,-118.287527
+753,91502,Burbank,Los Angeles,Standard,753,34.176817,-118.309323
+754,91504,Burbank,Los Angeles,Standard,754,34.204568,-118.326365
+755,91505,Burbank,Los Angeles,Standard,755,34.173885,-118.346937
+756,91506,Burbank,Los Angeles,Standard,756,34.171188,-118.323914
+757,91601,North Hollywood,Los Angeles,Standard,757,34.1692,-118.372498
+758,91602,North Hollywood,Los Angeles,Standard,758,34.150818,-118.368159
+759,91604,Studio City,Los Angeles,Standard,759,34.140822,-118.392864
+760,91605,North Hollywood,Los Angeles,Standard,760,34.207341,-118.400973
+761,91606,North Hollywood,Los Angeles,Standard,761,34.185767,-118.388323
+762,91607,Valley Village,Los Angeles,Standard,762,34.165783,-118.399795
+763,91608,Universal City,Los Angeles,Standard,763,34.138745,-118.35088
+764,91701,Rancho Cucamonga,San Bernardino,Standard,764,34.137564,-117.599945
+765,91702,Azusa,Los Angeles,Standard,765,34.280333,-117.866141
+766,91706,Baldwin Park,Los Angeles,Standard,766,34.09741,-117.968269
+767,91708,Chino,San Bernardino,Standard,767,33.952903,-117.639325
+768,91709,Chino Hills,San Bernardino,Standard,768,33.963723,-117.738596
+769,91710,Chino,San Bernardino,Standard,769,34.004467,-117.684697
+770,91711,Claremont,Los Angeles,Standard,770,34.128066,-117.714773
+771,91722,Covina,Los Angeles,Standard,771,34.097345,-117.906736
+772,91723,Covina,Los Angeles,Standard,772,34.084747,-117.886844
+773,91724,Covina,Los Angeles,Standard,773,34.080444,-117.854734
+774,91730,Rancho Cucamonga,San Bernardino,Standard,774,34.10097,-117.57882
+775,91731,El Monte,Los Angeles,Standard,775,34.078573,-118.043456
+776,91732,El Monte,Los Angeles,Standard,776,34.07342,-118.015344
+777,91733,South El Monte,Los Angeles,Standard,777,34.046243,-118.053748
+778,91737,Rancho Cucamonga,San Bernardino,Standard,778,34.152583,-117.577707
+779,91739,Rancho Cucamonga,San Bernardino,Standard,779,34.172754,-117.521243
+780,91740,Glendora,Los Angeles,Standard,780,34.119367,-117.855054
+781,91741,Glendora,Los Angeles,Standard,781,34.156529,-117.841605
+782,91744,La Puente,Los Angeles,Standard,782,34.031415,-117.93647
+783,91745,Hacienda Heights,Los Angeles,Standard,783,33.999005,-117.972146
+784,91746,La Puente,Los Angeles,Standard,784,34.044416,-117.985366
+785,91748,Rowland Heights,Los Angeles,Standard,785,33.974883,-117.900676
+786,91750,La Verne,Los Angeles,Standard,786,34.18001,-117.773939
+787,91752,Mira Loma,Riverside,Standard,787,33.996484,-117.531268
+788,91754,Monterey Park,Los Angeles,Standard,788,34.06214,-118.139562
+789,91755,Monterey Park,Los Angeles,Standard,789,34.050965,-118.114394
+790,91761,Ontario,San Bernardino,Standard,790,34.035602,-117.591528
+791,91762,Ontario,San Bernardino,Standard,791,34.05941,-117.67401
+792,91763,Montclair,San Bernardino,Standard,792,34.072329,-117.698315
+793,91764,Ontario,San Bernardino,Standard,793,34.074087,-117.605618
+794,91765,Diamond Bar,Los Angeles,Standard,794,33.98627,-117.821282
+795,91766,Pomona,Los Angeles,Standard,795,34.042286,-117.756106
+796,91767,Pomona,Los Angeles,Standard,796,34.083086,-117.737998
+797,91768,Pomona,Los Angeles,Standard,797,34.063516,-117.790379
+798,91770,Rosemead,Los Angeles,Standard,798,34.065493,-118.084529
+799,91773,San Dimas,Los Angeles,Standard,799,34.110186,-117.81039
+800,91775,San Gabriel,Los Angeles,Standard,800,34.115273,-118.088266
+801,91776,San Gabriel,Los Angeles,Standard,801,34.090776,-118.095091
+802,91780,Temple City,Los Angeles,Standard,802,34.102077,-118.057754
+803,91784,Upland,San Bernardino,Standard,803,34.141146,-117.655583
+804,91786,Upland,San Bernardino,Standard,804,34.105282,-117.662036
+805,91789,Walnut,Los Angeles,Standard,805,34.018195,-117.854821
+806,91790,West Covina,Los Angeles,Standard,806,34.066964,-117.937007
+807,91791,West Covina,Los Angeles,Standard,807,34.061624,-117.892235
+808,91792,West Covina,Los Angeles,Standard,808,34.022581,-117.902359
+809,91801,Alhambra,Los Angeles,Standard,809,34.090728,-118.127527
+810,91803,Alhambra,Los Angeles,Standard,810,34.074736,-118.145959
+811,91901,Alpine,San Diego,Standard,811,32.808563,-116.710076
+812,91902,Bonita,San Diego,Standard,812,32.665762,-117.018657
+813,91905,Boulevard,San Diego,Standard,813,32.67807,-116.306851
+814,91906,Campo,San Diego,Standard,814,32.654821,-116.465541
+815,91910,Chula Vista,San Diego,Standard,815,32.637868,-117.058031
+816,91911,Chula Vista,San Diego,Standard,816,32.608185,-117.054512
+817,91913,Chula Vista,San Diego,Standard,817,32.619459,-116.98582
+818,91914,Chula Vista,San Diego,Standard,818,32.674004,-116.943933
+819,91915,Chula Vista,San Diego,Standard,819,32.623185,-116.949053
+820,91916,Descanso,San Diego,Standard,820,32.887989,-116.621354
+821,91917,Dulzura,San Diego,Standard,821,32.608865,-116.719661
+822,91932,Imperial Beach,San Diego,Standard,822,32.573755,-117.120872
+823,91934,Jacumba,San Diego,Standard,823,32.648992,-116.152565
+824,91935,Jamul,San Diego,Standard,824,32.721919,-116.788204
+825,91941,La Mesa,San Diego,Standard,825,32.759333,-116.997247
+826,91942,La Mesa,San Diego,Standard,826,32.777999,-117.021511
+827,91945,Lemon Grove,San Diego,Standard,827,32.733168,-117.034176
+828,91950,National City,San Diego,Standard,828,32.670646,-117.094668
+829,91962,Pine Valley,San Diego,Standard,829,32.735124,-116.41516
+830,91963,Potrero,San Diego,Standard,830,32.626231,-116.61002
+831,91977,Spring Valley,San Diego,Standard,831,32.726237,-116.994318
+832,91978,Spring Valley,San Diego,Standard,832,32.724154,-116.940093
+833,91980,Tecate,San Diego,Standard,833,32.588866,-116.619172
+834,92003,Bonsall,San Diego,Standard,834,33.285274,-117.197777
+835,92004,Borrego Springs,San Diego,Standard,835,33.142077,-116.106046
+836,92007,Cardiff By The Sea,San Diego,Standard,836,33.023249,-117.274923
+837,92008,Carlsbad,San Diego,Standard,837,33.147294,-117.322181
+838,92009,Carlsbad,San Diego,Standard,838,33.09547,-117.243882
+839,92010,Carlsbad,San Diego,Standard,839,33.1585,-117.277163
+840,92011,Carlsbad,San Diego,Standard,840,33.107582,-117.292182
+841,92014,Del Mar,San Diego,Standard,841,32.9632,-117.250309
+842,92019,El Cajon,San Diego,Standard,842,32.77987,-116.884422
+843,92020,El Cajon,San Diego,Standard,843,32.795508,-116.969747
+844,92021,El Cajon,San Diego,Standard,844,32.838798,-116.869956
+845,92024,Encinitas,San Diego,Standard,845,33.056022,-117.2599
+846,92025,Escondido,San Diego,Standard,846,33.102005,-117.080419
+847,92026,Escondido,San Diego,Standard,847,33.212444,-117.116098
+848,92027,Escondido,San Diego,Standard,848,33.131156,-116.976997
+849,92028,Fallbrook,San Diego,Standard,849,33.390477,-117.209427
+850,92029,Escondido,San Diego,Standard,850,33.0824,-117.127641
+851,92036,Julian,San Diego,Standard,851,33.022474,-116.493688
+852,92037,La Jolla,San Diego,Standard,852,32.856347,-117.250058
+853,92040,Lakeside,San Diego,Standard,853,32.908915,-116.891975
+854,92054,Oceanside,San Diego,Standard,854,33.195534,-117.354538
+855,92056,Oceanside,San Diego,Standard,855,33.201242,-117.296984
+856,92057,Oceanside,San Diego,Standard,856,33.254619,-117.283341
+857,92058,Oceanside,San Diego,Standard,857,33.343438,-117.31725
+858,92059,Pala,San Diego,Standard,858,33.376467,-117.066121
+859,92061,Pauma Valley,San Diego,Standard,859,33.298504,-116.924783
+860,92064,Poway,San Diego,Standard,860,32.983606,-117.019035
+861,92065,Ramona,San Diego,Standard,861,33.053006,-116.850651
+862,92066,Ranchita,San Diego,Standard,862,33.219365,-116.535247
+863,92069,San Marcos,San Diego,Standard,863,33.170775,-117.158676
+864,92070,Santa Ysabel,San Diego,Standard,864,33.14709,-116.717453
+865,92071,Santee,San Diego,Standard,865,32.852358,-116.987842
+866,92075,Solana Beach,San Diego,Standard,866,32.997248,-117.26058
+867,92078,San Marcos,San Diego,Standard,867,33.117154,-117.180627
+868,92081,Vista,San Diego,Standard,868,33.164374,-117.24027
+869,92082,Valley Center,San Diego,Standard,869,33.253548,-117.003366
+870,92083,Vista,San Diego,Standard,870,33.19784,-117.248203
+871,92084,Vista,San Diego,Standard,871,33.219935,-117.202606
+872,92086,Warner Springs,San Diego,Standard,872,33.323221,-116.66593
+873,92091,Rancho Santa Fe,San Diego,Standard,873,33.015927,-117.243517
+874,92101,San Diego,San Diego,Standard,874,32.724103,-117.170912
+875,92102,San Diego,San Diego,Standard,875,32.716222,-117.11705
+876,92103,San Diego,San Diego,Standard,876,32.749434,-117.150636
+877,92104,San Diego,San Diego,Standard,877,32.741501,-117.127948
+878,92105,San Diego,San Diego,Standard,878,32.737832,-117.09267
+879,92106,San Diego,San Diego,Standard,879,32.710818,-117.237613
+880,92107,San Diego,San Diego,Standard,880,32.739055,-117.245404
+881,92108,San Diego,San Diego,Standard,881,32.774046,-117.142454
+882,92109,San Diego,San Diego,Standard,882,32.786772,-117.234207
+883,92110,San Diego,San Diego,Standard,883,32.765244,-117.200391
+884,92111,San Diego,San Diego,Standard,884,32.806476,-117.168879
+885,92113,San Diego,San Diego,Standard,885,32.696716,-117.117881
+886,92114,San Diego,San Diego,Standard,886,32.707756,-117.055095
+887,92115,San Diego,San Diego,Standard,887,32.764998,-117.073641
+888,92116,San Diego,San Diego,Standard,888,32.764971,-117.123146
+889,92117,San Diego,San Diego,Standard,889,32.824572,-117.199518
+890,92118,Coronado,San Diego,Standard,890,32.699235,-117.209642
+891,92119,San Diego,San Diego,Standard,891,32.817888,-117.031956
+892,92120,San Diego,San Diego,Standard,892,32.794714,-117.071764
+893,92121,San Diego,San Diego,Standard,893,32.899592,-117.201203
+894,92122,San Diego,San Diego,Standard,894,32.861727,-117.171224
+895,92123,San Diego,San Diego,Standard,895,32.806794,-117.13493
+896,92124,San Diego,San Diego,Standard,896,32.823766,-117.092378
+897,92126,San Diego,San Diego,Standard,897,32.908466,-117.141393
+898,92127,San Diego,San Diego,Standard,898,33.011807,-117.132702
+899,92128,San Diego,San Diego,Standard,899,32.999819,-117.071808
+900,92129,San Diego,San Diego,Standard,900,32.96692,-117.126158
+901,92130,San Diego,San Diego,Standard,901,32.945791,-117.214366
+902,92131,San Diego,San Diego,Standard,902,32.88607,-117.085981
+903,92139,San Diego,San Diego,Standard,903,32.679888,-117.04889
+904,92154,San Diego,San Diego,Standard,904,32.567022,-117.00425
+905,92173,San Ysidro,San Diego,Standard,905,32.553021,-117.042453
+906,92201,Indio,Riverside,Standard,906,33.710984,-116.204844
+907,92203,Indio,Riverside,Standard,907,33.75396,-116.246487
+908,92210,Indian Wells,Riverside,Standard,908,33.692217,-116.341248
+909,92211,Palm Desert,Riverside,Standard,909,33.765401,-116.334205
+910,92220,Banning,Riverside,Standard,910,33.948948,-116.832362
+911,92223,Beaumont,Riverside,Standard,911,33.948308,-116.987993
+912,92225,Blythe,Riverside,Standard,912,33.736458,-114.687973
+913,92227,Brawley,Imperial,Standard,913,32.990121,-115.358757
+914,92230,Cabazon,Riverside,Standard,914,33.910412,-116.765723
+915,92231,Calexico,Imperial,Standard,915,32.687553,-115.541028
+916,92233,Calipatria,Imperial,Standard,916,33.172881,-115.553769
+917,92234,Cathedral City,Riverside,Standard,917,33.818256,-116.466743
+918,92236,Coachella,Riverside,Standard,918,33.686145,-116.172918
+919,92240,Desert Hot Springs,Riverside,Standard,919,33.95154,-116.520104
+920,92241,Desert Hot Springs,Riverside,Standard,920,33.842584,-116.2929
+921,92242,Earp,San Bernardino,Standard,921,34.163216,-114.319121
+922,92243,El Centro,Imperial,Standard,922,32.770197,-115.598591
+923,92249,Heber,Imperial,Standard,923,32.725583,-115.47268
+924,92250,Holtville,Imperial,Standard,924,32.777241,-115.127641
+925,92251,Imperial,Imperial,Standard,925,32.881449,-115.675459
+926,92252,Joshua Tree,San Bernardino,Standard,926,34.168333,-116.288431
+927,92253,La Quinta,Riverside,Standard,927,33.641767,-116.273943
+928,92254,Mecca,Riverside,Standard,928,33.543835,-115.993906
+929,92256,Morongo Valley,San Bernardino,Standard,929,34.077059,-116.606626
+930,92257,Niland,Imperial,Standard,930,33.294274,-115.296227
+931,92260,Palm Desert,Riverside,Standard,931,33.708012,-116.403627
+932,92262,Palm Springs,Riverside,Standard,932,33.860925,-116.566176
+933,92264,Palm Springs,Riverside,Standard,933,33.708592,-116.497622
+934,92270,Rancho Mirage,Riverside,Standard,934,33.768584,-116.429988
+935,92274,Thermal,Riverside,Standard,935,33.460512,-116.084589
+936,92276,Thousand Palms,Riverside,Standard,936,33.82233,-116.364238
+937,92277,Twentynine Palms,San Bernardino,Standard,937,34.178105,-115.642899
+938,92280,Vidal,San Bernardino,Standard,938,34.112955,-114.633391
+939,92282,Whitewater,Riverside,Standard,939,33.983439,-116.690716
+940,92283,Winterhaven,Imperial,Standard,940,32.891546,-114.772943
+941,92284,Yucca Valley,San Bernardino,Standard,941,34.185894,-116.432416
+942,92285,Landers,San Bernardino,Standard,942,34.340222,-116.540435
+943,92301,Adelanto,San Bernardino,Standard,943,34.585234,-117.453724
+944,92305,Angelus Oaks,San Bernardino,Standard,944,34.141671,-116.817981
+945,92307,Apple Valley,San Bernardino,Standard,945,34.571218,-117.133073
+946,92308,Apple Valley,San Bernardino,Standard,946,34.424366,-117.161294
+947,92309,Baker,San Bernardino,Standard,947,35.332155,-116.038586
+948,92310,Fort Irwin,San Bernardino,Standard,948,35.26146,-116.690324
+949,92311,Barstow,San Bernardino,Standard,949,34.980294,-116.964449
+950,92313,Grand Terrace,San Bernardino,Standard,950,34.031011,-117.312929
+951,92314,Big Bear City,San Bernardino,Standard,951,34.261092,-116.809496
+952,92315,Big Bear Lake,San Bernardino,Standard,952,34.232796,-116.902863
+953,92316,Bloomington,San Bernardino,Standard,953,34.059306,-117.390768
+954,92320,Calimesa,Riverside,Standard,954,33.990471,-117.052103
+955,92324,Colton,San Bernardino,Standard,955,34.02452,-117.289255
+956,92327,Daggett,San Bernardino,Standard,956,34.863585,-116.862059
+957,92328,Death Valley,Inyo,Standard,957,36.597809,-116.827404
+958,92332,Essex,San Bernardino,Standard,958,34.912429,-115.342091
+959,92335,Fontana,San Bernardino,Standard,959,34.085971,-117.464597
+960,92336,Fontana,San Bernardino,Standard,960,34.147718,-117.464506
+961,92337,Fontana,San Bernardino,Standard,961,34.049809,-117.470613
+962,92338,Ludlow,San Bernardino,Standard,962,34.782699,-116.190564
+963,92339,Forest Falls,San Bernardino,Standard,963,34.093661,-116.936222
+964,92342,Helendale,San Bernardino,Standard,964,34.757047,-117.350142
+965,92344,Hesperia,San Bernardino,Standard,965,34.391145,-117.405722
+966,92345,Hesperia,San Bernardino,Standard,966,34.376159,-117.294397
+967,92346,Highland,San Bernardino,Standard,967,34.126779,-117.183104
+968,92347,Hinkley,San Bernardino,Standard,968,34.957406,-117.219606
+969,92354,Loma Linda,San Bernardino,Standard,969,34.051177,-117.248563
+970,92356,Lucerne Valley,San Bernardino,Standard,970,34.510646,-116.896718
+971,92358,Lytle Creek,San Bernardino,Standard,971,34.259272,-117.520971
+972,92359,Mentone,San Bernardino,Standard,972,34.083016,-117.073317
+973,92363,Needles,San Bernardino,Standard,973,34.894366,-114.640335
+974,92364,Nipton,San Bernardino,Standard,974,35.34042,-115.426224
+975,92365,Newberry Springs,San Bernardino,Standard,975,34.899991,-116.654532
+976,92368,Oro Grande,San Bernardino,Standard,976,34.650629,-117.321326
+977,92371,Phelan,San Bernardino,Standard,977,34.442625,-117.541815
+978,92372,Pinon Hills,San Bernardino,Standard,978,34.447894,-117.623946
+979,92373,Redlands,San Bernardino,Standard,979,34.011953,-117.159699
+980,92374,Redlands,San Bernardino,Standard,980,34.067146,-117.171885
+981,92376,Rialto,San Bernardino,Standard,981,34.111606,-117.377406
+982,92377,Rialto,San Bernardino,Standard,982,34.157763,-117.405966
+983,92392,Victorville,San Bernardino,Standard,983,34.480247,-117.408184
+984,92394,Victorville,San Bernardino,Standard,984,34.556111,-117.353632
+985,92395,Victorville,San Bernardino,Standard,985,34.501472,-117.292048
+986,92397,Wrightwood,San Bernardino,Standard,986,34.374009,-117.628429
+987,92399,Yucaipa,San Bernardino,Standard,987,34.032301,-117.010574
+988,92401,San Bernardino,San Bernardino,Standard,988,34.104794,-117.29215
+989,92404,San Bernardino,San Bernardino,Standard,989,34.177083,-117.254763
+990,92405,San Bernardino,San Bernardino,Standard,990,34.144626,-117.301302
+991,92407,San Bernardino,San Bernardino,Standard,991,34.212433,-117.381239
+992,92408,San Bernardino,San Bernardino,Standard,992,34.083458,-117.270016
+993,92410,San Bernardino,San Bernardino,Standard,993,34.107379,-117.297547
+994,92411,San Bernardino,San Bernardino,Standard,994,34.122501,-117.320138
+995,92501,Riverside,Riverside,Standard,995,33.99504,-117.373184
+996,92503,Riverside,Riverside,Standard,996,33.882578,-117.442285
+997,92504,Riverside,Riverside,Standard,997,33.903134,-117.398044
+998,92505,Riverside,Riverside,Standard,998,33.936193,-117.493881
+999,92506,Riverside,Riverside,Standard,999,33.934335,-117.367319
+1000,92507,Riverside,Riverside,Standard,1000,33.971006,-117.325181
+1001,92508,Riverside,Riverside,Standard,1001,33.891133,-117.326749
+1002,92509,Jurupa Valley,Riverside,Standard,1002,34.003267,-117.442004
+1003,92518,March Air Reserve Base,Riverside,Standard,1003,33.889184,-117.277729
+1004,92530,Lake Elsinore,Riverside,Standard,1004,33.652403,-117.373758
+1005,92532,Lake Elsinore,Riverside,Standard,1005,33.692708,-117.303135
+1006,92536,Aguanga,Riverside,Standard,1006,33.492391,-116.837956
+1007,92539,Anza,Riverside,Standard,1007,33.527867,-116.64762
+1008,92543,Hemet,Riverside,Standard,1008,33.6673,-116.963505
+1009,92544,Hemet,Riverside,Standard,1009,33.648169,-116.895308
+1010,92545,Hemet,Riverside,Standard,1010,33.729853,-117.03406
+1011,92548,Homeland,Riverside,Standard,1011,33.758663,-117.109484
+1012,92551,Moreno Valley,Riverside,Standard,1012,33.882739,-117.224878
+1013,92553,Moreno Valley,Riverside,Standard,1013,33.923381,-117.244836
+1014,92555,Moreno Valley,Riverside,Standard,1014,33.889702,-117.113427
+1015,92557,Moreno Valley,Riverside,Standard,1015,33.97216,-117.258409
+1016,92561,Mountain Center,Riverside,Standard,1016,33.637201,-116.627212
+1017,92562,Murrieta,Riverside,Standard,1017,33.547613,-117.34404
+1018,92563,Murrieta,Riverside,Standard,1018,33.580016,-117.14736
+1019,92567,Nuevo,Riverside,Standard,1019,33.810743,-117.105415
+1020,92570,Perris,Riverside,Standard,1020,33.787292,-117.320673
+1021,92571,Perris,Riverside,Standard,1021,33.828395,-117.20766
+1022,92582,San Jacinto,Riverside,Standard,1022,33.807607,-117.015163
+1023,92583,San Jacinto,Riverside,Standard,1023,33.795196,-116.932856
+1024,92584,Menifee,Riverside,Standard,1024,33.652675,-117.173568
+1025,92585,Menifee,Riverside,Standard,1025,33.746707,-117.172142
+1026,92586,Menifee,Riverside,Standard,1026,33.708982,-117.198853
+1027,92587,Menifee,Riverside,Standard,1027,33.69402,-117.250341
+1028,92590,Temecula,Riverside,Standard,1028,33.482811,-117.226126
+1029,92591,Temecula,Riverside,Standard,1029,33.535277,-117.104791
+1030,92592,Temecula,Riverside,Standard,1030,33.511228,-117.042396
+1031,92595,Wildomar,Riverside,Standard,1031,33.617845,-117.259305
+1032,92596,Winchester,Riverside,Standard,1032,33.665848,-117.04966
+1033,92602,Irvine,Orange,Standard,1033,33.754048,-117.752273
+1034,92603,Irvine,Orange,Standard,1034,33.624459,-117.781425
+1035,92604,Irvine,Orange,Standard,1035,33.690715,-117.789224
+1036,92606,Irvine,Orange,Standard,1036,33.702062,-117.815424
+1037,92610,Foothill Ranch,Orange,Standard,1037,33.696117,-117.67596
+1038,92612,Irvine,Orange,Standard,1038,33.65844,-117.826009
+1039,92614,Irvine,Orange,Standard,1039,33.68021,-117.833355
+1040,92617,Irvine,Orange,Standard,1040,33.642508,-117.841681
+1041,92618,Irvine,Orange,Standard,1041,33.666942,-117.732094
+1042,92620,Irvine,Orange,Standard,1042,33.714788,-117.749132
+1043,92624,Capistrano Beach,Orange,Standard,1043,33.451469,-117.659056
+1044,92625,Corona Del Mar,Orange,Standard,1044,33.601966,-117.864254
+1045,92626,Costa Mesa,Orange,Standard,1045,33.679591,-117.908531
+1046,92627,Costa Mesa,Orange,Standard,1046,33.647764,-117.919761
+1047,92629,Dana Point,Orange,Standard,1047,33.47512,-117.705675
+1048,92630,Lake Forest,Orange,Standard,1048,33.645736,-117.685503
+1049,92637,Laguna Woods,Orange,Standard,1049,33.612925,-117.731443
+1050,92646,Huntington Beach,Orange,Standard,1050,33.66205,-117.968459
+1051,92647,Huntington Beach,Orange,Standard,1051,33.723228,-118.008692
+1052,92648,Huntington Beach,Orange,Standard,1052,33.67901,-118.014603
+1053,92649,Huntington Beach,Orange,Standard,1053,33.72524,-118.051579
+1054,92651,Laguna Beach,Orange,Standard,1054,33.57093,-117.773043
+1055,92653,Laguna Hills,Orange,Standard,1055,33.591304,-117.697512
+1056,92655,Midway City,Orange,Standard,1056,33.74513,-117.984873
+1057,92656,Aliso Viejo,Orange,Standard,1057,33.576212,-117.730368
+1058,92657,Newport Coast,Orange,Standard,1058,33.595088,-117.829038
+1059,92660,Newport Beach,Orange,Standard,1059,33.634626,-117.874882
+1060,92661,Newport Beach,Orange,Standard,1060,33.601984,-117.913001
+1061,92662,Newport Beach,Orange,Standard,1061,33.605086,-117.892319
+1062,92663,Newport Beach,Orange,Standard,1062,33.623208,-117.933903
+1063,92672,San Clemente,Orange,Standard,1063,33.42411,-117.606775
+1064,92673,San Clemente,Orange,Standard,1064,33.467371,-117.613509
+1065,92675,San Juan Capistrano,Orange,Standard,1065,33.50186,-117.608646
+1066,92676,Silverado,Orange,Standard,1066,33.75249,-117.612415
+1067,92677,Laguna Niguel,Orange,Standard,1067,33.528867,-117.701175
+1068,92679,Trabuco Canyon,Orange,Standard,1068,33.606687,-117.604358
+1069,92683,Westminster,Orange,Standard,1069,33.752469,-117.993932
+1070,92688,Rancho Santa Margarita,Orange,Standard,1070,33.619672,-117.612087
+1071,92691,Mission Viejo,Orange,Standard,1071,33.611945,-117.665867
+1072,92692,Mission Viejo,Orange,Standard,1072,33.606496,-117.643112
+1073,92694,Ladera Ranch,Orange,Standard,1073,33.547231,-117.62376
+1074,92701,Santa Ana,Orange,Standard,1074,33.74822,-117.858473
+1075,92703,Santa Ana,Orange,Standard,1075,33.747155,-117.907326
+1076,92704,Santa Ana,Orange,Standard,1076,33.721131,-117.90511
+1077,92705,Santa Ana,Orange,Standard,1077,33.765609,-117.790075
+1078,92706,Santa Ana,Orange,Standard,1078,33.765301,-117.881976
+1079,92707,Santa Ana,Orange,Standard,1079,33.709935,-117.870431
+1080,92708,Fountain Valley,Orange,Standard,1080,33.710582,-117.951129
+1081,92780,Tustin,Orange,Standard,1081,33.734008,-117.819164
+1082,92782,Tustin,Orange,Standard,1082,33.699734,-117.817709
+1083,92801,Anaheim,Orange,Standard,1083,33.844983,-117.952151
+1084,92802,Anaheim,Orange,Standard,1084,33.808265,-117.923654
+1085,92804,Anaheim,Orange,Standard,1085,33.818246,-117.974985
+1086,92805,Anaheim,Orange,Standard,1086,33.830457,-117.905941
+1087,92806,Anaheim,Orange,Standard,1087,33.837961,-117.870495
+1088,92807,Anaheim,Orange,Standard,1088,33.848733,-117.788357
+1089,92808,Anaheim,Orange,Standard,1089,33.856473,-117.740177
+1090,92821,Brea,Orange,Standard,1090,33.927561,-117.887086
+1091,92823,Brea,Orange,Standard,1091,33.928179,-117.809285
+1092,92831,Fullerton,Orange,Standard,1092,33.879767,-117.89634
+1093,92832,Fullerton,Orange,Standard,1093,33.868649,-117.929055
+1094,92833,Fullerton,Orange,Standard,1094,33.879325,-117.961755
+1095,92835,Fullerton,Orange,Standard,1095,33.901886,-117.916639
+1096,92840,Garden Grove,Orange,Standard,1096,33.787165,-117.931889
+1097,92841,Garden Grove,Orange,Standard,1097,33.786839,-117.982026
+1098,92843,Garden Grove,Orange,Standard,1098,33.763961,-117.931366
+1099,92844,Garden Grove,Orange,Standard,1099,33.765461,-117.969461
+1100,92845,Garden Grove,Orange,Standard,1100,33.783064,-118.026268
+1101,92860,Norco,Riverside,Standard,1101,33.925519,-117.551958
+1102,92861,Villa Park,Orange,Standard,1102,33.81763,-117.810046
+1103,92865,Orange,Orange,Standard,1103,33.826393,-117.851307
+1104,92866,Orange,Orange,Standard,1104,33.784615,-117.844774
+1105,92867,Orange,Orange,Standard,1105,33.80098,-117.843772
+1106,92868,Orange,Orange,Standard,1106,33.788145,-117.87655
+1107,92869,Orange,Orange,Standard,1107,33.80845,-117.791737
+1108,92870,Placentia,Orange,Standard,1108,33.881158,-117.854783
+1109,92879,Corona,Riverside,Standard,1109,33.882614,-117.528205
+1110,92880,Corona,Riverside,Standard,1110,33.925311,-117.607297
+1111,92881,Corona,Riverside,Standard,1111,33.827409,-117.524128
+1112,92882,Corona,Riverside,Standard,1112,33.840451,-117.601961
+1113,92883,Corona,Riverside,Standard,1113,33.748086,-117.468037
+1114,92886,Yorba Linda,Orange,Standard,1114,33.896324,-117.796561
+1115,92887,Yorba Linda,Orange,Standard,1115,33.885514,-117.730164
+1116,93001,Ventura,Ventura,Standard,1116,34.058607,-119.92912
+1117,93003,Ventura,Ventura,Standard,1117,34.283668,-119.223196
+1118,93004,Ventura,Ventura,Standard,1118,34.278679,-119.165615
+1119,93010,Camarillo,Ventura,Standard,1119,34.227892,-119.079552
+1120,93012,Camarillo,Ventura,Standard,1120,34.196026,-118.992531
+1121,93013,Carpinteria,Santa Barbara,Standard,1121,34.44137,-119.514092
+1122,93015,Fillmore,Ventura,Standard,1122,34.404104,-118.897775
+1123,93021,Moorpark,Ventura,Standard,1123,34.295652,-118.897875
+1124,93022,Oak View,Ventura,Standard,1124,34.40778,-119.306554
+1125,93023,Ojai,Ventura,Standard,1125,34.530199,-119.310133
+1126,93030,Oxnard,Ventura,Standard,1126,34.205247,-119.174092
+1127,93033,Oxnard,Ventura,Standard,1127,34.150213,-119.127729
+1128,93035,Oxnard,Ventura,Standard,1128,34.181971,-119.224985
+1129,93036,Oxnard,Ventura,Standard,1129,34.238785,-119.186492
+1130,93041,Port Hueneme,Ventura,Standard,1130,34.106896,-119.099535
+1131,93060,Santa Paula,Ventura,Standard,1131,34.402343,-119.094825
+1132,93063,Simi Valley,Ventura,Standard,1132,34.308729,-118.687223
+1133,93065,Simi Valley,Ventura,Standard,1133,34.258405,-118.775026
+1134,93066,Somis,Ventura,Standard,1134,34.297699,-119.014558
+1135,93101,Santa Barbara,Santa Barbara,Standard,1135,34.418979,-119.709166
+1136,93103,Santa Barbara,Santa Barbara,Standard,1136,34.438773,-119.678841
+1137,93105,Santa Barbara,Santa Barbara,Standard,1137,34.533222,-119.791731
+1138,93108,Santa Barbara,Santa Barbara,Standard,1138,34.448024,-119.616984
+1139,93109,Santa Barbara,Santa Barbara,Standard,1139,34.406428,-119.726888
+1140,93110,Santa Barbara,Santa Barbara,Standard,1140,34.446201,-119.762794
+1141,93111,Santa Barbara,Santa Barbara,Standard,1141,34.449185,-119.804782
+1142,93117,Goleta,Santa Barbara,Standard,1142,34.479453,-120.084094
+1143,93202,Armona,Kings,Standard,1143,36.313344,-119.708452
+1144,93203,Arvin,Kern,Standard,1144,35.112617,-118.832292
+1145,93204,Avenal,Kings,Standard,1145,35.889811,-120.06859
+1146,93205,Bodfish,Kern,Standard,1146,35.518295,-118.430032
+1147,93206,Buttonwillow,Kern,Standard,1147,35.437302,-119.477735
+1148,93207,California Hot Springs,Tulare,Standard,1148,35.889831,-118.630592
+1149,93210,Coalinga,Fresno,Standard,1149,36.216313,-120.424244
+1150,93212,Corcoran,Kings,Standard,1150,36.04215,-119.5277
+1151,93215,Delano,Kern,Standard,1151,35.779507,-119.200825
+1152,93219,Earlimart,Tulare,Standard,1152,35.873666,-119.281551
+1153,93221,Exeter,Tulare,Standard,1153,36.295014,-119.026031
+1154,93223,Farmersville,Tulare,Standard,1154,36.304539,-119.204896
+1155,93224,Fellows,Kern,Standard,1155,35.228198,-119.569304
+1156,93225,Frazier Park,Kern,Standard,1156,34.768503,-119.030293
+1157,93226,Glennville,Kern,Standard,1157,35.735652,-118.738373
+1158,93230,Hanford,Kings,Standard,1158,36.29223,-119.622676
+1159,93235,Ivanhoe,Tulare,Standard,1159,36.389827,-119.219896
+1160,93238,Kernville,Kern,Standard,1160,35.729087,-118.391794
+1161,93239,Kettleman City,Kings,Standard,1161,36.04719,-119.990217
+1162,93240,Lake Isabella,Kern,Standard,1162,35.617546,-118.452285
+1163,93241,Lamont,Kern,Standard,1163,35.254701,-118.912678
+1164,93242,Laton,Fresno,Standard,1164,36.442077,-119.727734
+1165,93243,Lebec,Kern,Standard,1165,34.7727,-118.791975
+1166,93244,Lemon Cove,Tulare,Standard,1166,36.488656,-118.998043
+1167,93245,Lemoore,Kings,Standard,1167,36.29227,-119.829463
+1168,93247,Lindsay,Tulare,Standard,1168,36.206269,-119.071075
+1169,93249,Lost Hills,Kern,Standard,1169,35.621706,-119.887939
+1170,93250,Mc Farland,Kern,Standard,1170,35.665082,-119.197958
+1171,93251,Mc Kittrick,Kern,Standard,1171,35.335636,-119.758248
+1172,93252,Maricopa,Kern,Standard,1172,34.710034,-119.243808
+1173,93254,New Cuyama,Santa Barbara,Standard,1173,34.966867,-119.810433
+1174,93255,Onyx,Kern,Standard,1174,35.67733,-118.101417
+1175,93256,Pixley,Tulare,Standard,1175,35.960636,-119.312992
+1176,93257,Porterville,Tulare,Standard,1176,35.988087,-118.860221
+1177,93260,Posey,Tulare,Standard,1177,35.817247,-118.669124
+1178,93262,Sequoia National Park,Tulare,Standard,1178,36.615624,-118.697574
+1179,93263,Shafter,Kern,Standard,1179,35.492805,-119.286862
+1180,93265,Springville,Tulare,Standard,1180,36.245404,-118.693313
+1181,93266,Stratford,Kings,Standard,1181,36.145393,-119.867288
+1182,93267,Strathmore,Tulare,Standard,1182,36.15118,-119.049222
+1183,93268,Taft,Kern,Standard,1183,35.162394,-119.425115
+1184,93270,Terra Bella,Tulare,Standard,1184,35.952426,-119.072843
+1185,93271,Three Rivers,Tulare,Standard,1185,36.469275,-118.800919
+1186,93272,Tipton,Tulare,Standard,1186,36.047414,-119.344304
+1187,93274,Tulare,Tulare,Standard,1187,36.178091,-119.370752
+1188,93277,Visalia,Tulare,Standard,1188,36.301334,-119.372585
+1189,93280,Wasco,Kern,Standard,1189,35.652242,-119.4464
+1190,93283,Weldon,Kern,Standard,1190,35.592099,-118.297698
+1191,93285,Wofford Heights,Kern,Standard,1191,35.71536,-118.507495
+1192,93286,Woodlake,Tulare,Standard,1192,36.46271,-119.093242
+1193,93287,Woody,Kern,Standard,1193,35.757886,-118.988161
+1194,93291,Visalia,Tulare,Standard,1194,36.391777,-119.372842
+1195,93292,Visalia,Tulare,Standard,1195,36.37559,-119.211689
+1196,93301,Bakersfield,Kern,Standard,1196,35.384337,-119.020562
+1197,93304,Bakersfield,Kern,Standard,1197,35.339702,-119.023451
+1198,93305,Bakersfield,Kern,Standard,1198,35.389749,-118.985186
+1199,93306,Bakersfield,Kern,Standard,1199,35.468193,-118.779751
+1200,93307,Bakersfield,Kern,Standard,1200,35.24512,-118.9411
+1201,93308,Bakersfield,Kern,Standard,1201,35.621087,-118.789677
+1202,93309,Bakersfield,Kern,Standard,1202,35.342891,-119.064802
+1203,93311,Bakersfield,Kern,Standard,1203,35.192404,-119.175866
+1204,93312,Bakersfield,Kern,Standard,1204,35.393478,-119.12046
+1205,93313,Bakersfield,Kern,Standard,1205,35.163188,-119.046321
+1206,93314,Bakersfield,Kern,Standard,1206,35.393866,-119.244846
+1207,93401,San Luis Obispo,San Luis Obispo,Standard,1207,35.23575,-120.615973
+1208,93402,Los Osos,San Luis Obispo,Standard,1208,35.295232,-120.835468
+1209,93405,San Luis Obispo,San Luis Obispo,Standard,1209,35.296958,-120.733135
+1210,93410,San Luis Obispo,San Luis Obispo,Standard,1210,35.301198,-120.660939
+1211,93420,Arroyo Grande,San Luis Obispo,Standard,1211,35.176011,-120.476755
+1212,93422,Atascadero,San Luis Obispo,Standard,1212,35.463544,-120.692911
+1213,93426,Bradley,Monterey,Standard,1213,35.848621,-120.938911
+1214,93427,Buellton,Santa Barbara,Standard,1214,34.610436,-120.219523
+1215,93428,Cambria,San Luis Obispo,Standard,1215,35.585001,-121.041474
+1216,93430,Cayucos,San Luis Obispo,Standard,1216,35.48497,-120.944419
+1217,93432,Creston,San Luis Obispo,Standard,1217,35.480204,-120.48131
+1218,93433,Grover Beach,San Luis Obispo,Standard,1218,35.120888,-120.619664
+1219,93434,Guadalupe,Santa Barbara,Standard,1219,34.919894,-120.604969
+1220,93436,Lompoc,Santa Barbara,Standard,1220,34.595669,-120.352667
+1221,93437,Lompoc,Santa Barbara,Standard,1221,34.737964,-120.543739
+1222,93442,Morro Bay,San Luis Obispo,Standard,1222,35.401934,-120.799362
+1223,93444,Nipomo,San Luis Obispo,Standard,1223,35.037198,-120.504593
+1224,93445,Oceano,San Luis Obispo,Standard,1224,35.044396,-120.620199
+1225,93446,Paso Robles,San Luis Obispo,Standard,1225,35.663144,-120.749698
+1226,93449,Pismo Beach,San Luis Obispo,Standard,1226,35.165504,-120.655942
+1227,93450,San Ardo,Monterey,Standard,1227,36.085423,-120.818522
+1228,93451,San Miguel,San Luis Obispo,Standard,1228,35.886767,-120.608661
+1229,93452,San Simeon,San Luis Obispo,Standard,1229,35.746488,-121.22335
+1230,93453,Santa Margarita,San Luis Obispo,Standard,1230,35.303925,-120.256566
+1231,93454,Santa Maria,Santa Barbara,Standard,1231,34.923012,-120.259463
+1232,93455,Santa Maria,Santa Barbara,Standard,1232,34.831792,-120.433509
+1233,93458,Santa Maria,Santa Barbara,Standard,1233,34.959339,-120.490081
+1234,93460,Santa Ynez,Santa Barbara,Standard,1234,34.653533,-120.007153
+1235,93461,Shandon,San Luis Obispo,Standard,1235,35.652911,-120.266428
+1236,93463,Solvang,Santa Barbara,Standard,1236,34.624395,-120.137875
+1237,93465,Templeton,San Luis Obispo,Standard,1237,35.538803,-120.739858
+1238,93501,Mojave,Kern,Standard,1238,35.067111,-118.184941
+1239,93505,California City,Kern,Standard,1239,35.16374,-117.886527
+1240,93510,Acton,Los Angeles,Standard,1240,34.450906,-118.227614
+1241,93512,Benton,Mono,Standard,1241,37.891866,-118.554569
+1242,93513,Big Pine,Inyo,Standard,1242,37.131989,-118.15588
+1243,93514,Bishop,Inyo,Standard,1243,37.492115,-118.390408
+1244,93516,Boron,Kern,Standard,1244,35.002282,-117.629941
+1245,93517,Bridgeport,Mono,Standard,1245,38.240789,-119.455653
+1246,93518,Caliente,Kern,Standard,1246,35.385111,-118.491168
+1247,93523,Edwards,Kern,Standard,1247,34.957206,-117.827391
+1248,93526,Independence,Inyo,Standard,1248,36.823834,-118.281246
+1249,93527,Inyokern,Kern,Standard,1249,36.119622,-118.177123
+1250,93531,Keene,Kern,Standard,1250,35.221906,-118.582566
+1251,93532,Lake Hughes,Los Angeles,Standard,1251,34.689848,-118.533689
+1252,93534,Lancaster,Los Angeles,Standard,1252,34.713333,-118.152788
+1253,93535,Lancaster,Los Angeles,Standard,1253,34.713656,-117.86466
+1254,93536,Lancaster,Los Angeles,Standard,1254,34.74739,-118.369248
+1255,93543,Littlerock,Los Angeles,Standard,1255,34.481108,-117.982006
+1256,93544,Llano,Los Angeles,Standard,1256,34.495537,-117.756645
+1257,93545,Lone Pine,Inyo,Standard,1257,36.556387,-118.054221
+1258,93546,Mammoth Lakes,Mono,Standard,1258,37.548799,-118.839817
+1259,93550,Palmdale,Los Angeles,Standard,1259,34.408548,-118.123592
+1260,93551,Palmdale,Los Angeles,Standard,1260,34.604105,-118.239213
+1261,93552,Palmdale,Los Angeles,Standard,1261,34.570867,-118.023744
+1262,93553,Pearblossom,Los Angeles,Standard,1262,34.407332,-117.911841
+1263,93555,Ridgecrest,Kern,Standard,1263,35.606509,-117.683472
+1264,93560,Rosamond,Kern,Standard,1264,34.866894,-118.339832
+1265,93561,Tehachapi,Kern,Standard,1265,35.118772,-118.493811
+1266,93562,Trona,San Bernardino,Standard,1266,35.746463,-117.386604
+1267,93563,Valyermo,Los Angeles,Standard,1267,34.402521,-117.766065
+1268,93591,Palmdale,Los Angeles,Standard,1268,34.59448,-117.813666
+1269,93601,Ahwahnee,Madera,Standard,1269,37.393471,-119.741037
+1270,93602,Auberry,Fresno,Standard,1270,37.028835,-119.316654
+1271,93603,Badger,Tulare,Standard,1271,36.622507,-118.957187
+1272,93604,Bass Lake,Madera,Standard,1272,37.344149,-119.422139
+1273,93608,Cantua Creek,Fresno,Standard,1273,36.492478,-120.355526
+1274,93609,Caruthers,Fresno,Standard,1274,36.526597,-119.864103
+1275,93610,Chowchilla,Madera,Standard,1275,37.098304,-120.281212
+1276,93611,Clovis,Fresno,Standard,1276,36.825297,-119.68019
+1277,93612,Clovis,Fresno,Standard,1277,36.814867,-119.710599
+1278,93614,Coarsegold,Madera,Standard,1278,37.209821,-119.749802
+1279,93615,Cutler,Tulare,Standard,1279,36.503323,-119.286328
+1280,93616,Del Rey,Fresno,Standard,1280,36.655353,-119.593861
+1281,93618,Dinuba,Tulare,Standard,1281,36.521012,-119.389446
+1282,93619,Clovis,Fresno,Standard,1282,36.917573,-119.593481
+1283,93620,Dos Palos,Merced,Standard,1283,37.019998,-120.625366
+1284,93621,Dunlap,Fresno,Standard,1284,36.789273,-119.140345
+1285,93622,Firebaugh,Fresno,Standard,1285,36.814503,-120.57524
+1286,93623,Fish Camp,Mariposa,Standard,1286,37.494877,-119.64428
+1287,93625,Fowler,Fresno,Standard,1287,36.624539,-119.671874
+1288,93626,Friant,Fresno,Standard,1288,37.043286,-119.691306
+1289,93628,Hume,Fresno,Standard,1289,36.772382,-118.935666
+1290,93630,Kerman,Fresno,Standard,1290,36.72725,-120.123426
+1291,93631,Kingsburg,Fresno,Standard,1291,36.478239,-119.52137
+1292,93635,Los Banos,Merced,Standard,1292,37.068068,-120.843579
+1293,93636,Madera,Madera,Standard,1293,36.984885,-119.873914
+1294,93637,Madera,Madera,Standard,1294,36.918079,-120.185933
+1295,93638,Madera,Madera,Standard,1295,37.043434,-120.033693
+1296,93640,Mendota,Fresno,Standard,1296,36.672683,-120.446521
+1297,93641,Miramonte,Fresno,Standard,1297,36.69718,-119.022995
+1298,93643,North Fork,Madera,Standard,1298,37.22469,-119.47073
+1299,93644,Oakhurst,Madera,Standard,1299,37.377787,-119.632385
+1300,93645,O Neals,Madera,Standard,1300,37.182359,-119.64145
+1301,93646,Orange Cove,Fresno,Standard,1301,36.644737,-119.289181
+1302,93647,Orosi,Tulare,Standard,1302,36.60076,-119.175485
+1303,93648,Parlier,Fresno,Standard,1303,36.620634,-119.520731
+1304,93650,Fresno,Fresno,Standard,1304,36.840813,-119.799812
+1305,93651,Prather,Fresno,Standard,1305,36.999336,-119.518794
+1306,93652,Raisin City,Fresno,Standard,1306,36.595012,-119.904577
+1307,93653,Raymond,Madera,Standard,1307,37.248335,-119.944935
+1308,93654,Reedley,Fresno,Standard,1308,36.658709,-119.401274
+1309,93656,Riverdale,Fresno,Standard,1309,36.450225,-119.934478
+1310,93657,Sanger,Fresno,Standard,1310,36.817791,-119.457602
+1311,93660,San Joaquin,Fresno,Standard,1311,36.585445,-120.173897
+1312,93662,Selma,Fresno,Standard,1312,36.536573,-119.638651
+1313,93664,Shaver Lake,Fresno,Standard,1313,37.129364,-119.219562
+1314,93667,Tollhouse,Fresno,Standard,1314,36.95594,-119.335294
+1315,93668,Tranquillity,Fresno,Standard,1315,36.650275,-120.284085
+1316,93669,Wishon,Madera,Standard,1316,37.290563,-119.548406
+1317,93675,Squaw Valley,Fresno,Standard,1317,36.724724,-119.192779
+1318,93701,Fresno,Fresno,Standard,1318,36.749661,-119.787685
+1319,93702,Fresno,Fresno,Standard,1319,36.739194,-119.753933
+1320,93703,Fresno,Fresno,Standard,1320,36.76886,-119.762393
+1321,93704,Fresno,Fresno,Standard,1321,36.799054,-119.801608
+1322,93705,Fresno,Fresno,Standard,1322,36.786671,-119.828335
+1323,93706,Fresno,Fresno,Standard,1323,36.652065,-119.906591
+1324,93710,Fresno,Fresno,Standard,1324,36.822344,-119.760248
+1325,93711,Fresno,Fresno,Standard,1325,36.834289,-119.83335
+1326,93720,Fresno,Fresno,Standard,1326,36.862209,-119.760793
+1327,93721,Fresno,Fresno,Standard,1327,36.732891,-119.783739
+1328,93722,Fresno,Fresno,Standard,1328,36.799361,-119.874794
+1329,93723,Fresno,Fresno,Standard,1329,36.793477,-119.956818
+1330,93725,Fresno,Fresno,Standard,1330,36.627211,-119.731888
+1331,93726,Fresno,Fresno,Standard,1331,36.793662,-119.761459
+1332,93727,Fresno,Fresno,Standard,1332,36.75152,-119.680602
+1333,93728,Fresno,Fresno,Standard,1333,36.757294,-119.818488
+1334,93730,Fresno,Fresno,Standard,1334,36.905371,-119.748643
+1335,93901,Salinas,Monterey,Standard,1335,36.636344,-121.623978
+1336,93905,Salinas,Monterey,Standard,1336,36.682351,-121.605904
+1337,93906,Salinas,Monterey,Standard,1337,36.722714,-121.633649
+1338,93907,Salinas,Monterey,Standard,1338,36.769389,-121.667532
+1339,93908,Salinas,Monterey,Standard,1339,36.651745,-121.599444
+1340,93920,Big Sur,Monterey,Standard,1340,36.092974,-121.549826
+1341,93923,Carmel,Monterey,Standard,1341,36.448672,-121.849502
+1342,93924,Carmel Valley,Monterey,Standard,1342,36.415603,-121.637651
+1343,93925,Chualar,Monterey,Standard,1343,36.588003,-121.398912
+1344,93926,Gonzales,Monterey,Standard,1344,36.52587,-121.396735
+1345,93927,Greenfield,Monterey,Standard,1345,36.248796,-121.386631
+1346,93930,King City,Monterey,Standard,1346,36.20506,-121.010363
+1347,93933,Marina,Monterey,Standard,1347,36.686845,-121.786887
+1348,93940,Monterey,Monterey,Standard,1348,36.57469,-121.840854
+1349,93943,Monterey,Monterey,Standard,1349,36.597004,-121.874136
+1350,93950,Pacific Grove,Monterey,Standard,1350,36.621181,-121.925179
+1351,93953,Pebble Beach,Monterey,Standard,1351,36.585219,-121.945282
+1352,93955,Seaside,Monterey,Standard,1352,36.61441,-121.786901
+1353,93960,Soledad,Monterey,Standard,1353,36.389618,-121.343146
+1354,94002,Belmont,San Mateo,Standard,1354,37.514352,-122.298896
+1355,94005,Brisbane,San Mateo,Standard,1355,37.688826,-122.408935
+1356,94010,Burlingame,San Mateo,Standard,1356,37.57028,-122.365779
+1357,94014,Daly City,San Mateo,Standard,1357,37.690884,-122.447441
+1358,94015,Daly City,San Mateo,Standard,1358,37.681264,-122.480589
+1359,94019,Half Moon Bay,San Mateo,Standard,1359,37.469453,-122.411841
+1360,94020,La Honda,San Mateo,Standard,1360,37.274612,-122.23242
+1361,94021,Loma Mar,San Mateo,Standard,1361,37.270838,-122.280738
+1362,94022,Los Altos,Santa Clara,Standard,1362,37.357489,-122.144438
+1363,94024,Los Altos,Santa Clara,Standard,1363,37.352229,-122.094396
+1364,94025,Menlo Park,San Mateo,Standard,1364,37.457524,-122.176542
+1365,94027,Atherton,San Mateo,Standard,1365,37.453514,-122.204756
+1366,94028,Portola Valley,San Mateo,Standard,1366,37.376827,-122.209796
+1367,94030,Millbrae,San Mateo,Standard,1367,37.59897,-122.401991
+1368,94038,Moss Beach,San Mateo,Standard,1368,37.526902,-122.512164
+1369,94040,Mountain View,Santa Clara,Standard,1369,37.380569,-122.0853
+1370,94041,Mountain View,Santa Clara,Standard,1370,37.38852,-122.075726
+1371,94043,Mountain View,Santa Clara,Standard,1371,37.414028,-122.070678
+1372,94044,Pacifica,San Mateo,Standard,1372,37.606627,-122.477211
+1373,94060,Pescadero,San Mateo,Standard,1373,37.247137,-122.273493
+1374,94061,Redwood City,San Mateo,Standard,1374,37.461147,-122.236948
+1375,94062,Redwood City,San Mateo,Standard,1375,37.413691,-122.295343
+1376,94063,Redwood City,San Mateo,Standard,1376,37.493297,-122.195535
+1377,94065,Redwood City,San Mateo,Standard,1377,37.533711,-122.251172
+1378,94066,San Bruno,San Mateo,Standard,1378,37.625086,-122.433593
+1379,94070,San Carlos,San Mateo,Standard,1379,37.496466,-122.272565
+1380,94074,San Gregorio,San Mateo,Standard,1380,37.331714,-122.341466
+1381,94080,South San Francisco,San Mateo,Standard,1381,37.65549,-122.422075
+1382,94085,Sunnyvale,Santa Clara,Standard,1382,37.388556,-122.017732
+1383,94086,Sunnyvale,Santa Clara,Standard,1383,37.371647,-122.023134
+1384,94087,Sunnyvale,Santa Clara,Standard,1384,37.351529,-122.036959
+1385,94089,Sunnyvale,Santa Clara,Standard,1385,37.412402,-122.015605
+1386,94102,San Francisco,San Francisco,Standard,1386,37.779585,-122.419339
+1387,94103,San Francisco,San Francisco,Standard,1387,37.773152,-122.411164
+1388,94104,San Francisco,San Francisco,Standard,1388,37.791412,-122.402129
+1389,94105,San Francisco,San Francisco,Standard,1389,37.789649,-122.393067
+1390,94107,San Francisco,San Francisco,Standard,1390,37.76046,-122.399724
+1391,94108,San Francisco,San Francisco,Standard,1391,37.792016,-122.408584
+1392,94109,San Francisco,San Francisco,Standard,1392,37.795388,-122.422444
+1393,94110,San Francisco,San Francisco,Standard,1393,37.750022,-122.415201
+1394,94111,San Francisco,San Francisco,Standard,1394,37.79937,-122.398409
+1395,94112,San Francisco,San Francisco,Standard,1395,37.720375,-122.44295
+1396,94114,San Francisco,San Francisco,Standard,1396,37.758059,-122.435408
+1397,94115,San Francisco,San Francisco,Standard,1397,37.785969,-122.437253
+1398,94116,San Francisco,San Francisco,Standard,1398,37.745399,-122.486065
+1399,94117,San Francisco,San Francisco,Standard,1399,37.769436,-122.447662
+1400,94118,San Francisco,San Francisco,Standard,1400,37.780093,-122.462605
+1401,94121,San Francisco,San Francisco,Standard,1401,37.776769,-122.494707
+1402,94122,San Francisco,San Francisco,Standard,1402,37.758799,-122.485127
+1403,94123,San Francisco,San Francisco,Standard,1403,37.800934,-122.438366
+1404,94124,San Francisco,San Francisco,Standard,1404,37.728895,-122.382779
+1405,94127,San Francisco,San Francisco,Standard,1405,37.73622,-122.459338
+1406,94128,San Francisco,San Mateo,Standard,1406,37.626412,-122.385757
+1407,94129,San Francisco,San Francisco,Standard,1407,37.79734,-122.464466
+1408,94130,San Francisco,San Francisco,Standard,1408,37.820657,-122.369647
+1409,94131,San Francisco,San Francisco,Standard,1409,37.745916,-122.441473
+1410,94132,San Francisco,San Francisco,Standard,1410,37.722214,-122.484083
+1411,94133,San Francisco,San Francisco,Standard,1411,37.804532,-122.410852
+1412,94134,San Francisco,San Francisco,Standard,1412,37.721053,-122.413573
+1413,94158,San Francisco,San Francisco,Standard,1413,37.768106,-122.386927
+1414,94301,Palo Alto,Santa Clara,Standard,1414,37.444131,-122.149917
+1415,94303,Palo Alto,Santa Clara,Standard,1415,37.45788,-122.115158
+1416,94304,Palo Alto,Santa Clara,Standard,1416,37.374702,-122.181696
+1417,94305,Stanford,Santa Clara,Standard,1417,37.418256,-122.170871
+1418,94306,Palo Alto,Santa Clara,Standard,1418,37.415729,-122.130764
+1419,94401,San Mateo,San Mateo,Standard,1419,37.576948,-122.316903
+1420,94402,San Mateo,San Mateo,Standard,1420,37.523602,-122.34492
+1421,94403,San Mateo,San Mateo,Standard,1421,37.538449,-122.305447
+1422,94404,San Mateo,San Mateo,Standard,1422,37.555999,-122.267679
+1423,94501,Alameda,Alameda,Standard,1423,37.773793,-122.278115
+1424,94502,Alameda,Alameda,Standard,1424,37.737572,-122.245507
+1425,94503,American Canyon,Napa,Standard,1425,38.18632,-122.263611
+1426,94505,Discovery Bay,Contra Costa,Standard,1426,37.87168,-121.597066
+1427,94506,Danville,Contra Costa,Standard,1427,37.809677,-121.913141
+1428,94507,Alamo,Contra Costa,Standard,1428,37.85041,-122.021123
+1429,94508,Angwin,Napa,Standard,1429,38.576618,-122.444388
+1430,94509,Antioch,Contra Costa,Standard,1430,37.996501,-121.812301
+1431,94510,Benicia,Solano,Standard,1431,38.098071,-122.13594
+1432,94512,Birds Landing,Solano,Standard,1432,38.134852,-121.834156
+1433,94513,Brentwood,Contra Costa,Standard,1433,37.922228,-121.668359
+1434,94514,Byron,Contra Costa,Standard,1434,37.826372,-121.622546
+1435,94515,Calistoga,Napa,Standard,1435,38.634822,-122.615051
+1436,94517,Clayton,Contra Costa,Standard,1436,37.890217,-121.878354
+1437,94518,Concord,Contra Costa,Standard,1437,37.950362,-122.022039
+1438,94519,Concord,Contra Costa,Standard,1438,37.988451,-122.013001
+1439,94520,Concord,Contra Costa,Standard,1439,37.995284,-122.040627
+1440,94521,Concord,Contra Costa,Standard,1440,37.956012,-121.956194
+1441,94523,Pleasant Hill,Contra Costa,Standard,1441,37.954131,-122.076139
+1442,94525,Crockett,Contra Costa,Standard,1442,38.052951,-122.232094
+1443,94526,Danville,Contra Costa,Standard,1443,37.814613,-121.990551
+1444,94530,El Cerrito,Contra Costa,Standard,1444,37.92156,-122.298337
+1445,94531,Antioch,Contra Costa,Standard,1445,37.965765,-121.775818
+1446,94533,Fairfield,Solano,Standard,1446,38.280745,-122.00638
+1447,94534,Fairfield,Solano,Standard,1447,38.244839,-122.135861
+1448,94535,Travis AFB,Solano,Standard,1448,38.282221,-121.924715
+1449,94536,Fremont,Alameda,Standard,1449,37.570508,-121.98125
+1450,94538,Fremont,Alameda,Standard,1450,37.501368,-121.956753
+1451,94539,Fremont,Alameda,Standard,1451,37.516909,-121.911767
+1452,94541,Hayward,Alameda,Standard,1452,37.673945,-122.084821
+1453,94542,Hayward,Alameda,Standard,1453,37.659888,-122.037158
+1454,94544,Hayward,Alameda,Standard,1454,37.633822,-122.057202
+1455,94545,Hayward,Alameda,Standard,1455,37.605905,-122.126873
+1456,94546,Castro Valley,Alameda,Standard,1456,37.717276,-122.081958
+1457,94547,Hercules,Contra Costa,Standard,1457,38.010166,-122.261728
+1458,94549,Lafayette,Contra Costa,Standard,1458,37.897009,-122.114292
+1459,94550,Livermore,Alameda,Standard,1459,37.519983,-121.575595
+1460,94551,Livermore,Alameda,Standard,1460,37.750466,-121.749202
+1461,94552,Castro Valley,Alameda,Standard,1461,37.722719,-122.021556
+1462,94553,Martinez,Contra Costa,Standard,1462,37.993892,-122.136441
+1463,94555,Fremont,Alameda,Standard,1463,37.548205,-122.098677
+1464,94556,Moraga,Contra Costa,Standard,1464,37.840645,-122.114877
+1465,94558,Napa,Napa,Standard,1465,38.441977,-122.238331
+1466,94559,Napa,Napa,Standard,1466,38.233115,-122.309638
+1467,94560,Newark,Alameda,Standard,1467,37.504514,-122.032916
+1468,94561,Oakley,Contra Costa,Standard,1468,37.993936,-121.691139
+1469,94563,Orinda,Contra Costa,Standard,1469,37.87992,-122.184572
+1470,94564,Pinole,Contra Costa,Standard,1470,37.994038,-122.282589
+1471,94565,Pittsburg,Contra Costa,Standard,1471,38.014576,-121.906255
+1472,94566,Pleasanton,Alameda,Standard,1472,37.648104,-121.849965
+1473,94567,Pope Valley,Napa,Standard,1473,38.706906,-122.393997
+1474,94568,Dublin,Alameda,Standard,1474,37.709931,-121.844377
+1475,94571,Rio Vista,Solano,Standard,1475,38.148862,-121.737696
+1476,94572,Rodeo,Contra Costa,Standard,1476,38.032793,-122.252211
+1477,94574,Saint Helena,Napa,Standard,1477,38.542448,-122.419923
+1478,94575,Moraga,Contra Costa,Standard,1478,37.840961,-122.109502
+1479,94576,Deer Park,Napa,Standard,1479,38.549422,-122.476382
+1480,94577,San Leandro,Alameda,Standard,1480,37.713275,-122.16735
+1481,94578,San Leandro,Alameda,Standard,1481,37.706434,-122.125302
+1482,94579,San Leandro,Alameda,Standard,1482,37.686491,-122.157201
+1483,94580,San Lorenzo,Alameda,Standard,1483,37.675731,-122.133017
+1484,94582,San Ramon,Contra Costa,Standard,1484,37.762738,-121.916089
+1485,94583,San Ramon,Contra Costa,Standard,1485,37.75512,-121.972699
+1486,94585,Suisun City,Solano,Standard,1486,38.192498,-121.927529
+1487,94586,Sunol,Alameda,Standard,1487,37.574019,-121.853833
+1488,94587,Union City,Alameda,Standard,1488,37.603156,-122.018638
+1489,94588,Pleasanton,Alameda,Standard,1489,37.792682,-121.86059
+1490,94589,Vallejo,Solano,Standard,1490,38.166148,-122.236322
+1491,94590,Vallejo,Solano,Standard,1491,38.103234,-122.249096
+1492,94591,Vallejo,Solano,Standard,1492,38.122869,-122.196863
+1493,94592,Vallejo,Solano,Standard,1493,38.089723,-122.277387
+1494,94595,Walnut Creek,Contra Costa,Standard,1494,37.871955,-122.069382
+1495,94596,Walnut Creek,Contra Costa,Standard,1495,37.889098,-122.037553
+1496,94597,Walnut Creek,Contra Costa,Standard,1496,37.918195,-122.071665
+1497,94598,Walnut Creek,Contra Costa,Standard,1497,37.899935,-121.999244
+1498,94599,Yountville,Napa,Standard,1498,38.409878,-122.361511
+1499,94601,Oakland,Alameda,Standard,1499,37.775545,-122.218705
+1500,94602,Oakland,Alameda,Standard,1500,37.804319,-122.207544
+1501,94603,Oakland,Alameda,Standard,1501,37.736536,-122.17944
+1502,94605,Oakland,Alameda,Standard,1502,37.761409,-122.150198
+1503,94606,Oakland,Alameda,Standard,1503,37.791887,-122.245334
+1504,94607,Oakland,Alameda,Standard,1504,37.807215,-122.301497
+1505,94608,Emeryville,Alameda,Standard,1505,37.836844,-122.289143
+1506,94609,Oakland,Alameda,Standard,1506,37.836459,-122.263511
+1507,94610,Oakland,Alameda,Standard,1507,37.811406,-122.242458
+1508,94611,Oakland,Alameda,Standard,1508,37.82935,-122.203507
+1509,94612,Oakland,Alameda,Standard,1509,37.808765,-122.269156
+1510,94618,Oakland,Alameda,Standard,1510,37.844672,-122.238105
+1511,94619,Oakland,Alameda,Standard,1511,37.79045,-122.140809
+1512,94621,Oakland,Alameda,Standard,1512,37.748272,-122.216825
+1513,94702,Berkeley,Alameda,Standard,1513,37.865777,-122.286321
+1514,94703,Berkeley,Alameda,Standard,1514,37.863911,-122.275643
+1515,94704,Berkeley,Alameda,Standard,1515,37.866528,-122.258039
+1516,94705,Berkeley,Alameda,Standard,1516,37.865177,-122.238217
+1517,94706,Albany,Alameda,Standard,1517,37.889704,-122.295531
+1518,94707,Berkeley,Alameda,Standard,1518,37.898189,-122.27913
+1519,94708,Berkeley,Alameda,Standard,1519,37.902944,-122.261795
+1520,94709,Berkeley,Alameda,Standard,1520,37.879234,-122.266839
+1521,94710,Berkeley,Alameda,Standard,1521,37.863914,-122.306465
+1522,94801,Richmond,Contra Costa,Standard,1522,37.952844,-122.381974
+1523,94803,El Sobrante,Contra Costa,Standard,1523,37.959549,-122.283578
+1524,94804,Richmond,Contra Costa,Standard,1524,37.916555,-122.341233
+1525,94805,Richmond,Contra Costa,Standard,1525,37.942798,-122.322923
+1526,94806,San Pablo,Contra Costa,Standard,1526,37.98079,-122.337627
+1527,94850,Richmond,Contra Costa,Standard,1527,37.902226,-122.317378
+1528,94901,San Rafael,Marin,Standard,1528,37.978138,-122.497611
+1529,94903,San Rafael,Marin,Standard,1529,38.022366,-122.555605
+1530,94904,Greenbrae,Marin,Standard,1530,37.945512,-122.56012
+1531,94920,Belvedere Tiburon,Marin,Standard,1531,37.885629,-122.46858
+1532,94922,Bodega,Sonoma,Standard,1532,38.344946,-122.948799
+1533,94923,Bodega Bay,Sonoma,Standard,1533,38.339402,-123.034599
+1534,94924,Bolinas,Marin,Standard,1534,37.943087,-122.72379
+1535,94925,Corte Madera,Marin,Standard,1535,37.931846,-122.507738
+1536,94928,Rohnert Park,Sonoma,Standard,1536,38.34642,-122.694127
+1537,94930,Fairfax,Marin,Standard,1537,37.943962,-122.616418
+1538,94931,Cotati,Sonoma,Standard,1538,38.324133,-122.714633
+1539,94937,Inverness,Marin,Standard,1539,38.11649,-122.930351
+1540,94939,Larkspur,Marin,Standard,1540,37.937082,-122.532369
+1541,94940,Marshall,Marin,Standard,1541,38.17857,-122.88319
+1542,94941,Mill Valley,Marin,Standard,1542,37.897664,-122.563172
+1543,94945,Novato,Marin,Standard,1543,38.134068,-122.52719
+1544,94946,Nicasio,Marin,Standard,1544,38.082829,-122.671527
+1545,94947,Novato,Marin,Standard,1545,38.112166,-122.634384
+1546,94949,Novato,Marin,Standard,1546,38.060475,-122.508496
+1547,94951,Penngrove,Sonoma,Standard,1547,38.320861,-122.646138
+1548,94952,Petaluma,Sonoma,Standard,1548,38.234553,-122.760385
+1549,94954,Petaluma,Sonoma,Standard,1549,38.304383,-122.643818
+1550,94956,Point Reyes Station,Marin,Standard,1550,38.045857,-122.861209
+1551,94960,San Anselmo,Marin,Standard,1551,37.995864,-122.577814
+1552,94965,Sausalito,Marin,Standard,1552,37.852904,-122.547207
+1553,94970,Stinson Beach,Marin,Standard,1553,37.914513,-122.64689
+1554,94972,Valley Ford,Sonoma,Standard,1554,38.287346,-122.968556
+1555,95003,Aptos,Santa Cruz,Standard,1555,37.0067,-121.878207
+1556,95004,Aromas,Monterey,Standard,1556,36.874755,-121.630732
+1557,95005,Ben Lomond,Santa Cruz,Standard,1557,37.098768,-122.091734
+1558,95006,Boulder Creek,Santa Cruz,Standard,1558,37.171267,-122.149524
+1559,95008,Campbell,Santa Clara,Standard,1559,37.279173,-121.95534
+1560,95010,Capitola,Santa Cruz,Standard,1560,36.976175,-121.95316
+1561,95012,Castroville,Monterey,Standard,1561,36.784482,-121.759054
+1562,95014,Cupertino,Santa Clara,Standard,1562,37.306491,-122.08064
+1563,95017,Davenport,Santa Cruz,Standard,1563,37.114335,-122.237162
+1564,95018,Felton,Santa Cruz,Standard,1564,37.074092,-122.059371
+1565,95019,Freedom,Santa Cruz,Standard,1565,36.935538,-121.783134
+1566,95020,Gilroy,Santa Clara,Standard,1566,37.018419,-121.554249
+1567,95023,Hollister,San Benito,Standard,1567,36.902045,-121.350783
+1568,95030,Los Gatos,Santa Clara,Standard,1568,37.222759,-121.983272
+1569,95032,Los Gatos,Santa Clara,Standard,1569,37.216949,-121.926545
+1570,95033,Los Gatos,Santa Clara,Standard,1570,37.160846,-121.983966
+1571,95035,Milpitas,Santa Clara,Standard,1571,37.444349,-121.868859
+1572,95037,Morgan Hill,Santa Clara,Standard,1572,37.174063,-121.598747
+1573,95039,Moss Landing,Monterey,Standard,1573,36.82815,-121.776583
+1574,95043,Paicines,San Benito,Standard,1574,36.525703,-120.952122
+1575,95045,San Juan Bautista,San Benito,Standard,1575,36.825745,-121.518587
+1576,95046,San Martin,Santa Clara,Standard,1576,37.099308,-121.59924
+1577,95050,Santa Clara,Santa Clara,Standard,1577,37.351157,-121.952295
+1578,95051,Santa Clara,Santa Clara,Standard,1578,37.348639,-121.984373
+1579,95054,Santa Clara,Santa Clara,Standard,1579,37.393491,-121.96467
+1580,95060,Santa Cruz,Santa Cruz,Standard,1580,37.036461,-122.121751
+1581,95062,Santa Cruz,Santa Cruz,Standard,1581,36.970525,-121.987488
+1582,95064,Santa Cruz,Santa Cruz,Standard,1582,36.991107,-122.059022
+1583,95065,Santa Cruz,Santa Cruz,Standard,1583,37.031475,-121.98334
+1584,95066,Scotts Valley,Santa Cruz,Standard,1584,37.067917,-122.013995
+1585,95070,Saratoga,Santa Clara,Standard,1585,37.260499,-122.046165
+1586,95073,Soquel,Santa Cruz,Standard,1586,37.042254,-121.930051
+1587,95075,Tres Pinos,San Benito,Standard,1587,36.779046,-121.142439
+1588,95076,Watsonville,Santa Cruz,Standard,1588,36.946256,-121.756479
+1589,95110,San Jose,Santa Clara,Standard,1589,37.346512,-121.909803
+1590,95111,San Jose,Santa Clara,Standard,1590,37.283111,-121.826245
+1591,95112,San Jose,Santa Clara,Standard,1591,37.344482,-121.883535
+1592,95113,San Jose,Santa Clara,Standard,1592,37.333694,-121.891002
+1593,95116,San Jose,Santa Clara,Standard,1593,37.350421,-121.852585
+1594,95117,San Jose,Santa Clara,Standard,1594,37.311181,-121.96187
+1595,95118,San Jose,Santa Clara,Standard,1595,37.25552,-121.889995
+1596,95119,San Jose,Santa Clara,Standard,1596,37.230327,-121.785227
+1597,95120,San Jose,Santa Clara,Standard,1597,37.186141,-121.843555
+1598,95121,San Jose,Santa Clara,Standard,1598,37.304149,-121.809867
+1599,95122,San Jose,Santa Clara,Standard,1599,37.328683,-121.835268
+1600,95123,San Jose,Santa Clara,Standard,1600,37.244238,-121.831604
+1601,95124,San Jose,Santa Clara,Standard,1601,37.256765,-121.922762
+1602,95125,San Jose,Santa Clara,Standard,1602,37.295056,-121.89144
+1603,95126,San Jose,Santa Clara,Standard,1603,37.326791,-121.916745
+1604,95127,San Jose,Santa Clara,Standard,1604,37.371091,-121.800752
+1605,95128,San Jose,Santa Clara,Standard,1605,37.315977,-121.936319
+1606,95129,San Jose,Santa Clara,Standard,1606,37.305742,-122.000927
+1607,95130,San Jose,Santa Clara,Standard,1607,37.277121,-121.986132
+1608,95131,San Jose,Santa Clara,Standard,1608,37.387105,-121.897415
+1609,95132,San Jose,Santa Clara,Standard,1609,37.424565,-121.748597
+1610,95133,San Jose,Santa Clara,Standard,1610,37.371606,-121.860844
+1611,95134,San Jose,Santa Clara,Standard,1611,37.426378,-121.950977
+1612,95135,San Jose,Santa Clara,Standard,1612,37.284529,-121.658321
+1613,95136,San Jose,Santa Clara,Standard,1613,37.269128,-121.850992
+1614,95138,San Jose,Santa Clara,Standard,1614,37.246623,-121.733833
+1615,95139,San Jose,Santa Clara,Standard,1615,37.224914,-121.764075
+1616,95140,Mount Hamilton,Santa Clara,Standard,1616,37.393503,-121.620009
+1617,95148,San Jose,Santa Clara,Standard,1617,37.335987,-121.777603
+1618,95202,Stockton,San Joaquin,Standard,1618,37.959736,-121.288287
+1619,95203,Stockton,San Joaquin,Standard,1619,37.952452,-121.329655
+1620,95204,Stockton,San Joaquin,Standard,1620,37.973736,-121.319246
+1621,95205,Stockton,San Joaquin,Standard,1621,37.964578,-121.259841
+1622,95206,Stockton,San Joaquin,Standard,1622,37.918854,-121.417427
+1623,95207,Stockton,San Joaquin,Standard,1623,38.002125,-121.324979
+1624,95209,Stockton,San Joaquin,Standard,1624,38.046863,-121.352802
+1625,95210,Stockton,San Joaquin,Standard,1625,38.030178,-121.297912
+1626,95212,Stockton,San Joaquin,Standard,1626,38.049939,-121.23297
+1627,95215,Stockton,San Joaquin,Standard,1627,37.949411,-121.15705
+1628,95219,Stockton,San Joaquin,Standard,1628,38.051726,-121.483036
+1629,95220,Acampo,San Joaquin,Standard,1629,38.200232,-121.235031
+1630,95222,Angels Camp,Calaveras,Standard,1630,38.07211,-120.631346
+1631,95223,Arnold,Calaveras,Standard,1631,38.433968,-119.968435
+1632,95228,Copperopolis,Calaveras,Standard,1632,37.90723,-120.688307
+1633,95230,Farmington,San Joaquin,Standard,1633,38.000494,-120.898152
+1634,95231,French Camp,San Joaquin,Standard,1634,37.873793,-121.290146
+1635,95232,Glencoe,Calaveras,Standard,1635,38.355339,-120.594015
+1636,95236,Linden,San Joaquin,Standard,1636,38.02973,-121.02389
+1637,95237,Lockeford,San Joaquin,Standard,1637,38.161879,-121.149837
+1638,95240,Lodi,San Joaquin,Standard,1638,38.114388,-121.144658
+1639,95242,Lodi,San Joaquin,Standard,1639,38.137068,-121.384546
+1640,95245,Mokelumne Hill,Calaveras,Standard,1640,38.299257,-120.626706
+1641,95246,Mountain Ranch,Calaveras,Standard,1641,38.227004,-120.514561
+1642,95247,Murphys,Calaveras,Standard,1642,38.138539,-120.452903
+1643,95249,San Andreas,Calaveras,Standard,1643,38.189115,-120.638708
+1644,95251,Vallecito,Calaveras,Standard,1644,38.078402,-120.443443
+1645,95252,Valley Springs,Calaveras,Standard,1645,38.149816,-120.84667
+1646,95255,West Point,Calaveras,Standard,1646,38.419902,-120.474458
+1647,95257,Wilseyville,Calaveras,Standard,1647,38.379703,-120.448
+1648,95258,Woodbridge,San Joaquin,Standard,1648,38.173556,-121.312247
+1649,95301,Atwater,Merced,Standard,1649,37.321233,-120.654396
+1650,95303,Ballico,Merced,Standard,1650,37.470288,-120.671083
+1651,95304,Tracy,San Joaquin,Standard,1651,37.671103,-121.406559
+1652,95306,Catheys Valley,Mariposa,Standard,1652,37.36553,-120.160163
+1653,95307,Ceres,Stanislaus,Standard,1653,37.554269,-120.951523
+1654,95310,Columbia,Tuolumne,Standard,1654,38.085839,-120.37855
+1655,95311,Coulterville,Mariposa,Standard,1655,37.71426,-120.081389
+1656,95313,Crows Landing,Stanislaus,Standard,1656,37.431392,-121.051294
+1657,95315,Delhi,Merced,Standard,1657,37.421901,-120.769284
+1658,95316,Denair,Stanislaus,Standard,1658,37.553376,-120.714055
+1659,95317,El Nido,Merced,Standard,1659,37.12738,-120.506433
+1660,95320,Escalon,San Joaquin,Standard,1660,37.825598,-121.005157
+1661,95321,Groveland,Tuolumne,Standard,1661,37.864258,-120.004543
+1662,95322,Gustine,Merced,Standard,1662,37.166199,-121.024432
+1663,95323,Hickman,Stanislaus,Standard,1663,37.608303,-120.685156
+1664,95324,Hilmar,Merced,Standard,1664,37.394536,-120.890747
+1665,95325,Hornitos,Mariposa,Standard,1665,37.466072,-120.225948
+1666,95326,Hughson,Stanislaus,Standard,1666,37.588918,-120.855236
+1667,95327,Jamestown,Tuolumne,Standard,1667,37.861626,-120.480322
+1668,95328,Keyes,Stanislaus,Standard,1668,37.558453,-120.90988
+1669,95329,La Grange,Stanislaus,Standard,1669,37.666587,-120.411517
+1670,95330,Lathrop,San Joaquin,Standard,1670,37.808915,-121.312636
+1671,95333,Le Grand,Merced,Standard,1671,37.242236,-120.240449
+1672,95334,Livingston,Merced,Standard,1672,37.347307,-120.742627
+1673,95335,Long Barn,Tuolumne,Standard,1673,38.124887,-120.093146
+1674,95336,Manteca,San Joaquin,Standard,1674,37.830267,-121.20102
+1675,95337,Manteca,San Joaquin,Standard,1675,37.74304,-121.238381
+1676,95338,Mariposa,Mariposa,Standard,1676,37.508765,-119.982496
+1677,95340,Merced,Merced,Standard,1677,37.345785,-120.42415
+1678,95341,Merced,Merced,Standard,1678,37.231045,-120.501072
+1679,95345,Midpines,Mariposa,Standard,1679,37.583767,-119.976728
+1680,95346,Mi Wuk Village,Tuolumne,Standard,1680,38.065528,-120.170699
+1681,95348,Merced,Merced,Standard,1681,37.392287,-120.498299
+1682,95350,Modesto,Stanislaus,Standard,1682,37.671916,-121.007342
+1683,95351,Modesto,Stanislaus,Standard,1683,37.623601,-120.996324
+1684,95354,Modesto,Stanislaus,Standard,1684,37.638047,-120.965971
+1685,95355,Modesto,Stanislaus,Standard,1685,37.672906,-120.946594
+1686,95356,Modesto,Stanislaus,Standard,1686,37.718023,-121.032714
+1687,95357,Modesto,Stanislaus,Standard,1687,37.671153,-120.886268
+1688,95358,Modesto,Stanislaus,Standard,1688,37.612612,-121.108568
+1689,95360,Newman,Stanislaus,Standard,1689,37.325955,-121.193383
+1690,95361,Oakdale,Stanislaus,Standard,1690,37.787236,-120.759202
+1691,95363,Patterson,Stanislaus,Standard,1691,37.452895,-121.229974
+1692,95364,Pinecrest,Tuolumne,Standard,1692,38.2247,-119.759979
+1693,95365,Planada,Merced,Standard,1693,37.331113,-120.294817
+1694,95366,Ripon,San Joaquin,Standard,1694,37.762766,-121.125277
+1695,95367,Riverbank,Stanislaus,Standard,1695,37.729282,-120.942905
+1696,95368,Salida,Stanislaus,Standard,1696,37.713269,-121.085404
+1697,95369,Snelling,Merced,Standard,1697,37.531889,-120.437413
+1698,95370,Sonora,Tuolumne,Standard,1698,37.984549,-120.349264
+1699,95372,Soulsbyville,Tuolumne,Standard,1699,37.991289,-120.262791
+1700,95374,Stevinson,Merced,Standard,1700,37.316807,-120.855753
+1701,95376,Tracy,San Joaquin,Standard,1701,37.737191,-121.433384
+1702,95377,Tracy,San Joaquin,Standard,1702,37.673944,-121.517228
+1703,95379,Tuolumne,Tuolumne,Standard,1703,37.939765,-120.188046
+1704,95380,Turlock,Stanislaus,Standard,1704,37.474396,-120.875917
+1705,95382,Turlock,Stanislaus,Standard,1705,37.528476,-120.853313
+1706,95383,Twain Harte,Tuolumne,Standard,1706,38.11276,-120.225746
+1707,95385,Vernalis,San Joaquin,Standard,1707,37.61074,-121.24733
+1708,95386,Waterford,Stanislaus,Standard,1708,37.667405,-120.629404
+1709,95388,Winton,Merced,Standard,1709,37.41467,-120.586787
+1710,95389,Yosemite National Park,Mariposa,Standard,1710,37.626489,-119.68128
+1711,95391,Tracy,San Joaquin,Standard,1711,37.768222,-121.60951
+1712,95401,Santa Rosa,Sonoma,Standard,1712,38.449137,-122.793752
+1713,95403,Santa Rosa,Sonoma,Standard,1713,38.503684,-122.754057
+1714,95404,Santa Rosa,Sonoma,Standard,1714,38.525733,-122.690443
+1715,95405,Santa Rosa,Sonoma,Standard,1715,38.437114,-122.665993
+1716,95407,Santa Rosa,Sonoma,Standard,1716,38.393301,-122.745048
+1717,95409,Santa Rosa,Sonoma,Standard,1717,38.468829,-122.580724
+1718,95410,Albion,Mendocino,Standard,1718,39.199469,-123.702253
+1719,95412,Annapolis,Sonoma,Standard,1719,38.713421,-123.349777
+1720,95415,Boonville,Mendocino,Standard,1720,39.015251,-123.370756
+1721,95417,Branscomb,Mendocino,Standard,1721,39.68979,-123.610022
+1722,95420,Caspar,Mendocino,Standard,1722,39.366146,-123.804985
+1723,95421,Cazadero,Sonoma,Standard,1723,38.628217,-123.160834
+1724,95422,Clearlake,Lake,Standard,1724,38.973012,-122.623922
+1725,95423,Clearlake Oaks,Lake,Standard,1725,39.064446,-122.626701
+1726,95425,Cloverdale,Sonoma,Standard,1726,38.823058,-123.063891
+1727,95427,Comptche,Mendocino,Standard,1727,39.244183,-123.563531
+1728,95428,Covelo,Mendocino,Standard,1728,39.824803,-123.179609
+1729,95429,Dos Rios,Mendocino,Standard,1729,39.72093,-123.300262
+1730,95432,Elk,Mendocino,Standard,1730,39.108252,-123.645121
+1731,95436,Forestville,Sonoma,Standard,1731,38.486817,-122.90562
+1732,95437,Fort Bragg,Mendocino,Standard,1732,39.487185,-123.741963
+1733,95439,Fulton,Sonoma,Standard,1733,38.493179,-122.777546
+1734,95441,Geyserville,Sonoma,Standard,1734,38.731694,-122.906768
+1735,95442,Glen Ellen,Sonoma,Standard,1735,38.371538,-122.487307
+1736,95443,Glenhaven,Lake,Standard,1736,39.054011,-122.751253
+1737,95444,Graton,Sonoma,Standard,1737,38.433216,-122.869001
+1738,95445,Gualala,Mendocino,Standard,1738,38.83252,-123.472532
+1739,95446,Guerneville,Sonoma,Standard,1739,38.527164,-123.007892
+1740,95448,Healdsburg,Sonoma,Standard,1740,38.622985,-122.889122
+1741,95449,Hopland,Mendocino,Standard,1741,38.936137,-123.119445
+1742,95450,Jenner,Sonoma,Standard,1742,38.501363,-123.170879
+1743,95451,Kelseyville,Lake,Standard,1743,38.922131,-122.789559
+1744,95452,Kenwood,Sonoma,Standard,1744,38.425523,-122.53521
+1745,95453,Lakeport,Lake,Standard,1745,39.045931,-122.941077
+1746,95454,Laytonville,Mendocino,Standard,1746,39.806096,-123.516147
+1747,95456,Little River,Mendocino,Standard,1747,39.258198,-123.76156
+1748,95457,Lower Lake,Lake,Standard,1748,38.882973,-122.53272
+1749,95458,Lucerne,Lake,Standard,1749,39.161278,-122.745312
+1750,95459,Manchester,Mendocino,Standard,1750,38.97664,-123.604802
+1751,95460,Mendocino,Mendocino,Standard,1751,39.305245,-123.748616
+1752,95461,Middletown,Lake,Standard,1752,38.752774,-122.557196
+1753,95462,Monte Rio,Sonoma,Standard,1753,38.462142,-123.018384
+1754,95463,Navarro,Mendocino,Standard,1754,39.186791,-123.558382
+1755,95464,Nice,Lake,Standard,1755,39.128363,-122.849302
+1756,95465,Occidental,Sonoma,Standard,1756,38.421934,-123.063911
+1757,95466,Philo,Mendocino,Standard,1757,39.081822,-123.504872
+1758,95467,Hidden Valley Lake,Lake,Standard,1758,38.808264,-122.539952
+1759,95468,Point Arena,Mendocino,Standard,1759,38.918887,-123.605684
+1760,95469,Potter Valley,Mendocino,Standard,1760,39.390917,-123.052841
+1761,95470,Redwood Valley,Mendocino,Standard,1761,39.31403,-123.249924
+1762,95472,Sebastopol,Sonoma,Standard,1762,38.398815,-122.861923
+1763,95476,Sonoma,Sonoma,Standard,1763,38.249428,-122.466627
+1764,95482,Ukiah,Mendocino,Standard,1764,39.135023,-123.259338
+1765,95485,Upper Lake,Lake,Standard,1765,39.225478,-122.922912
+1766,95488,Westport,Mendocino,Standard,1766,39.683707,-123.741609
+1767,95490,Willits,Mendocino,Standard,1767,39.492842,-123.340973
+1768,95492,Windsor,Sonoma,Standard,1768,38.528079,-122.821349
+1769,95493,Witter Springs,Lake,Standard,1769,39.184728,-122.969574
+1770,95494,Yorkville,Mendocino,Standard,1770,38.889651,-123.337821
+1771,95501,Eureka,Humboldt,Standard,1771,40.798659,-124.151583
+1772,95503,Eureka,Humboldt,Standard,1772,40.738322,-124.107619
+1773,95511,Alderpoint,Humboldt,Standard,1773,40.141835,-123.681929
+1774,95514,Blocksburg,Humboldt,Standard,1774,40.294713,-123.653473
+1775,95519,Mckinleyville,Humboldt,Standard,1775,40.959215,-124.051292
+1776,95521,Arcata,Humboldt,Standard,1776,40.855694,-124.066898
+1777,95524,Bayside,Humboldt,Standard,1777,40.825486,-124.049485
+1778,95525,Blue Lake,Humboldt,Standard,1778,40.92143,-123.815266
+1779,95526,Bridgeville,Humboldt,Standard,1779,40.459048,-123.673177
+1780,95527,Burnt Ranch,Trinity,Standard,1780,41.012258,-123.387964
+1781,95528,Carlotta,Humboldt,Standard,1781,40.496979,-123.930821
+1782,95531,Crescent City,Del Norte,Standard,1782,41.819578,-124.065667
+1783,95536,Ferndale,Humboldt,Standard,1783,40.523099,-124.326421
+1784,95540,Fortuna,Humboldt,Standard,1784,40.578828,-124.136869
+1785,95542,Garberville,Humboldt,Standard,1785,40.080405,-123.783948
+1786,95543,Gasquet,Del Norte,Standard,1786,41.870812,-123.86277
+1787,95546,Hoopa,Humboldt,Standard,1787,41.093371,-123.673442
+1788,95547,Hydesville,Humboldt,Standard,1788,40.557483,-124.081215
+1789,95548,Klamath,Del Norte,Standard,1789,41.593204,-124.045992
+1790,95549,Kneeland,Humboldt,Standard,1790,40.666676,-123.908383
+1791,95550,Korbel,Humboldt,Standard,1791,40.781218,-123.826383
+1792,95551,Loleta,Humboldt,Standard,1792,40.674987,-124.231146
+1793,95552,Mad River,Trinity,Standard,1793,40.202543,-123.228609
+1794,95554,Myers Flat,Humboldt,Standard,1794,40.296384,-123.777138
+1795,95555,Orick,Humboldt,Standard,1795,41.241807,-123.913425
+1796,95558,Petrolia,Humboldt,Standard,1796,40.298264,-124.243071
+1797,95560,Redway,Humboldt,Standard,1797,40.167716,-123.826093
+1798,95562,Rio Dell,Humboldt,Standard,1798,40.472423,-124.12184
+1799,95564,Samoa,Humboldt,Standard,1799,40.79088,-124.204748
+1800,95565,Scotia,Humboldt,Standard,1800,40.455186,-124.015198
+1801,95567,Smith River,Del Norte,Standard,1801,41.950683,-124.097094
+1802,95568,Somes Bar,Siskiyou,Standard,1802,41.452689,-123.464813
+1803,95569,Redcrest,Humboldt,Standard,1803,40.377299,-123.854169
+1804,95570,Trinidad,Humboldt,Standard,1804,41.080058,-124.156283
+1805,95573,Willow Creek,Humboldt,Standard,1805,40.914926,-123.668723
+1806,95585,Leggett,Mendocino,Standard,1806,39.844682,-123.656929
+1807,95587,Piercy,Mendocino,Standard,1807,39.96327,-123.775737
+1808,95589,Whitethorn,Humboldt,Standard,1808,40.055796,-123.969269
+1809,95595,Zenia,Trinity,Standard,1809,40.123177,-123.446279
+1810,95602,Auburn,Placer,Standard,1810,38.99003,-121.114408
+1811,95603,Auburn,Placer,Standard,1811,38.915869,-121.080284
+1812,95605,West Sacramento,Yolo,Standard,1812,38.593521,-121.539867
+1813,95606,Brooks,Yolo,Standard,1813,38.756045,-122.195442
+1814,95607,Capay,Yolo,Standard,1814,38.830465,-122.126907
+1815,95608,Carmichael,Sacramento,Standard,1815,38.62415,-121.324911
+1816,95610,Citrus Heights,Sacramento,Standard,1816,38.694908,-121.271771
+1817,95612,Clarksburg,Yolo,Standard,1817,38.384706,-121.578721
+1818,95614,Cool,El Dorado,Standard,1818,38.886238,-120.979699
+1819,95615,Courtland,Sacramento,Standard,1819,38.318624,-121.554752
+1820,95616,Davis,Yolo,Standard,1820,38.554133,-121.798467
+1821,95618,Davis,Yolo,Standard,1821,38.543211,-121.6815
+1822,95619,Diamond Springs,El Dorado,Standard,1822,38.680605,-120.814261
+1823,95620,Dixon,Solano,Standard,1823,38.412615,-121.756222
+1824,95621,Citrus Heights,Sacramento,Standard,1824,38.695705,-121.308299
+1825,95623,El Dorado,El Dorado,Standard,1825,38.603602,-120.85703
+1826,95624,Elk Grove,Sacramento,Standard,1826,38.427507,-121.314899
+1827,95626,Elverta,Sacramento,Standard,1827,38.732982,-121.468033
+1828,95627,Esparto,Yolo,Standard,1828,38.734513,-122.025346
+1829,95628,Fair Oaks,Sacramento,Standard,1829,38.652065,-121.25441
+1830,95629,Fiddletown,Amador,Standard,1830,38.516472,-120.688508
+1831,95630,Folsom,Sacramento,Standard,1831,38.666597,-121.141636
+1832,95631,Foresthill,Placer,Standard,1832,39.053461,-120.795632
+1833,95632,Galt,Sacramento,Standard,1833,38.274451,-121.259201
+1834,95633,Garden Valley,El Dorado,Standard,1834,38.840217,-120.829757
+1835,95634,Georgetown,El Dorado,Standard,1835,38.936904,-120.772283
+1836,95635,Greenwood,El Dorado,Standard,1836,38.910748,-120.908621
+1837,95636,Grizzly Flats,El Dorado,Standard,1837,38.621278,-120.383217
+1838,95637,Guinda,Yolo,Standard,1838,38.834124,-122.236908
+1839,95638,Herald,Sacramento,Standard,1839,38.313448,-121.123886
+1840,95640,Ione,Amador,Standard,1840,38.325248,-120.955787
+1841,95641,Isleton,Sacramento,Standard,1841,38.140366,-121.589783
+1842,95642,Jackson,Amador,Standard,1842,38.343033,-120.760921
+1843,95645,Knights Landing,Yolo,Standard,1843,38.884891,-121.778654
+1844,95648,Lincoln,Placer,Standard,1844,38.922812,-121.312005
+1845,95650,Loomis,Placer,Standard,1845,38.809174,-121.171375
+1846,95651,Lotus,El Dorado,Standard,1846,38.81782,-120.929272
+1847,95652,Mcclellan,Sacramento,Standard,1847,38.662982,-121.401113
+1848,95655,Mather,Sacramento,Standard,1848,38.549228,-121.278598
+1849,95658,Newcastle,Placer,Standard,1849,38.881183,-121.169014
+1850,95659,Nicolaus,Sutter,Standard,1850,38.84223,-121.572164
+1851,95660,North Highlands,Sacramento,Standard,1851,38.678545,-121.379969
+1852,95661,Roseville,Placer,Standard,1852,38.741074,-121.247693
+1853,95662,Orangevale,Sacramento,Standard,1853,38.689174,-121.218435
+1854,95663,Penryn,Placer,Standard,1854,38.855808,-121.18232
+1855,95664,Pilot Hill,El Dorado,Standard,1855,38.801281,-121.037856
+1856,95665,Pine Grove,Amador,Standard,1856,38.40065,-120.648463
+1857,95666,Pioneer,Amador,Standard,1857,38.52386,-120.376629
+1858,95667,Placerville,El Dorado,Standard,1858,38.734925,-120.789952
+1859,95668,Pleasant Grove,Sutter,Standard,1859,38.833555,-121.498099
+1860,95669,Plymouth,Amador,Standard,1860,38.482619,-120.899472
+1861,95670,Rancho Cordova,Sacramento,Standard,1861,38.604269,-121.280327
+1862,95672,Rescue,El Dorado,Standard,1862,38.722374,-120.978633
+1863,95673,Rio Linda,Sacramento,Standard,1863,38.689241,-121.459014
+1864,95674,Rio Oso,Sutter,Standard,1864,38.954164,-121.481859
+1865,95677,Rocklin,Placer,Standard,1865,38.791075,-121.234854
+1866,95678,Roseville,Placer,Standard,1866,38.764021,-121.287501
+1867,95681,Sheridan,Placer,Standard,1867,38.995557,-121.353545
+1868,95682,Shingle Springs,El Dorado,Standard,1868,38.612129,-120.964522
+1869,95683,Sloughhouse,Sacramento,Standard,1869,38.511992,-121.09626
+1870,95684,Somerset,El Dorado,Standard,1870,38.592309,-120.584657
+1871,95685,Sutter Creek,Amador,Standard,1871,38.434485,-120.761687
+1872,95687,Vacaville,Solano,Standard,1872,38.333133,-121.920151
+1873,95688,Vacaville,Solano,Standard,1873,38.408571,-122.022775
+1874,95689,Volcano,Amador,Standard,1874,38.478864,-120.611974
+1875,95690,Walnut Grove,Sacramento,Standard,1875,38.199579,-121.61825
+1876,95691,West Sacramento,Yolo,Standard,1876,38.627951,-121.593287
+1877,95692,Wheatland,Yuba,Standard,1877,39.043066,-121.409804
+1878,95693,Wilton,Sacramento,Standard,1878,38.399281,-121.210116
+1879,95694,Winters,Yolo,Standard,1879,38.568866,-122.079781
+1880,95695,Woodland,Yolo,Standard,1880,38.687045,-121.857077
+1881,95703,Applegate,Placer,Standard,1881,38.985882,-120.978665
+1882,95709,Camino,El Dorado,Standard,1882,38.750132,-120.675412
+1883,95713,Colfax,Placer,Standard,1883,39.111833,-120.877969
+1884,95720,Kyburz,El Dorado,Standard,1884,38.76661,-120.223932
+1885,95722,Meadow Vista,Placer,Standard,1885,39.009801,-121.034707
+1886,95726,Pollock Pines,El Dorado,Standard,1886,38.80035,-120.503871
+1887,95735,Twin Bridges,El Dorado,Standard,1887,38.840282,-120.150225
+1888,95742,Rancho Cordova,Sacramento,Standard,1888,38.577805,-121.201787
+1889,95746,Granite Bay,Placer,Standard,1889,38.747526,-121.180092
+1890,95747,Roseville,Placer,Standard,1890,38.78207,-121.373155
+1891,95757,Elk Grove,Sacramento,Standard,1891,38.344888,-121.431231
+1892,95758,Elk Grove,Sacramento,Standard,1892,38.427813,-121.444696
+1893,95762,El Dorado Hills,El Dorado,Standard,1893,38.685087,-121.063769
+1894,95765,Rocklin,Placer,Standard,1894,38.815548,-121.280172
+1895,95776,Woodland,Yolo,Standard,1895,38.698692,-121.699462
+1896,95811,Sacramento,Sacramento,Standard,1896,38.58323,-121.478101
+1897,95814,Sacramento,Sacramento,Standard,1897,38.580568,-121.49559
+1898,95815,Sacramento,Sacramento,Standard,1898,38.605407,-121.447593
+1899,95816,Sacramento,Sacramento,Standard,1899,38.571576,-121.466465
+1900,95817,Sacramento,Sacramento,Standard,1900,38.550547,-121.456373
+1901,95818,Sacramento,Sacramento,Standard,1901,38.554487,-121.497058
+1902,95819,Sacramento,Sacramento,Standard,1902,38.569828,-121.440067
+1903,95820,Sacramento,Sacramento,Standard,1903,38.534879,-121.444372
+1904,95821,Sacramento,Sacramento,Standard,1904,38.625693,-121.384916
+1905,95822,Sacramento,Sacramento,Standard,1905,38.512787,-121.493618
+1906,95823,Sacramento,Sacramento,Standard,1906,38.474099,-121.443454
+1907,95824,Sacramento,Sacramento,Standard,1907,38.517584,-121.440739
+1908,95825,Sacramento,Sacramento,Standard,1908,38.591897,-121.408467
+1909,95826,Sacramento,Sacramento,Standard,1909,38.543754,-121.377692
+1910,95827,Sacramento,Sacramento,Standard,1910,38.55612,-121.32426
+1911,95828,Sacramento,Sacramento,Standard,1911,38.48879,-121.395838
+1912,95829,Sacramento,Sacramento,Standard,1912,38.489546,-121.323452
+1913,95830,Sacramento,Sacramento,Standard,1913,38.490508,-121.284171
+1914,95831,Sacramento,Sacramento,Standard,1914,38.493966,-121.529188
+1915,95832,Sacramento,Sacramento,Standard,1915,38.44705,-121.496114
+1916,95833,Sacramento,Sacramento,Standard,1916,38.619049,-121.517552
+1917,95834,Sacramento,Sacramento,Standard,1917,38.635212,-121.518608
+1918,95835,Sacramento,Sacramento,Standard,1918,38.670649,-121.525983
+1919,95837,Sacramento,Sacramento,Standard,1919,38.693765,-121.598941
+1920,95838,Sacramento,Sacramento,Standard,1920,38.645724,-121.445254
+1921,95841,Sacramento,Sacramento,Standard,1921,38.66037,-121.347394
+1922,95842,Sacramento,Sacramento,Standard,1922,38.68681,-121.349144
+1923,95843,Antelope,Sacramento,Standard,1923,38.715463,-121.363422
+1924,95864,Sacramento,Sacramento,Standard,1924,38.584047,-121.375846
+1925,95901,Marysville,Yuba,Standard,1925,39.223939,-121.49405
+1926,95903,Beale AFB,Yuba,Standard,1926,39.106099,-121.36818
+1927,95910,Alleghany,Sierra,Standard,1927,39.491126,-120.817232
+1928,95912,Arbuckle,Colusa,Standard,1928,39.016702,-122.062143
+1929,95914,Bangor,Butte,Standard,1929,39.449004,-121.330521
+1930,95916,Berry Creek,Butte,Standard,1930,39.665539,-121.351956
+1931,95917,Biggs,Butte,Standard,1931,39.409686,-121.756653
+1932,95918,Browns Valley,Yuba,Standard,1932,39.301229,-121.337929
+1933,95919,Brownsville,Yuba,Standard,1933,39.432882,-121.261143
+1934,95920,Butte City,Glenn,Standard,1934,39.449795,-121.936372
+1935,95922,Camptonville,Yuba,Standard,1935,39.488286,-121.066851
+1936,95923,Canyon Dam,Plumas,Standard,1936,40.133728,-121.092693
+1937,95925,Challenge,Yuba,Standard,1937,39.484108,-121.192649
+1938,95926,Chico,Butte,Standard,1938,39.745628,-121.843834
+1939,95928,Chico,Butte,Standard,1939,39.68571,-121.844084
+1940,95930,Clipper Mills,Butte,Standard,1940,39.546887,-121.176215
+1941,95932,Colusa,Colusa,Standard,1941,39.266469,-121.978604
+1942,95934,Crescent Mills,Plumas,Standard,1942,40.0601,-120.907957
+1943,95935,Dobbins,Yuba,Standard,1943,39.379344,-121.192261
+1944,95938,Durham,Butte,Standard,1944,39.604713,-121.795288
+1945,95939,Elk Creek,Glenn,Standard,1945,39.571982,-122.580827
+1946,95941,Forbestown,Butte,Standard,1946,39.516314,-121.250934
+1947,95942,Forest Ranch,Butte,Standard,1947,40.01945,-121.566635
+1948,95943,Glenn,Glenn,Standard,1948,39.584807,-122.032297
+1949,95945,Grass Valley,Nevada,Standard,1949,39.196387,-120.972289
+1950,95946,Penn Valley,Nevada,Standard,1950,39.215586,-121.20324
+1951,95947,Greenville,Plumas,Standard,1951,40.174566,-120.819756
+1952,95948,Gridley,Butte,Standard,1952,39.339264,-121.770785
+1953,95949,Grass Valley,Nevada,Standard,1953,39.09923,-121.138848
+1954,95953,Live Oak,Sutter,Standard,1954,39.259022,-121.776826
+1955,95954,Magalia,Butte,Standard,1955,39.884654,-121.586788
+1956,95957,Meridian,Sutter,Standard,1956,39.060921,-121.827155
+1957,95959,Nevada City,Nevada,Standard,1957,39.347811,-120.918728
+1958,95960,North San Juan,Nevada,Standard,1958,39.403216,-121.034486
+1959,95961,Olivehurst,Yuba,Standard,1959,39.040304,-121.560484
+1960,95962,Oregon House,Yuba,Standard,1960,39.34479,-121.264555
+1961,95963,Orland,Glenn,Standard,1961,39.736308,-122.259338
+1962,95965,Oroville,Butte,Standard,1962,39.593945,-121.581363
+1963,95966,Oroville,Butte,Standard,1963,39.47536,-121.41411
+1964,95968,Palermo,Butte,Standard,1964,39.435211,-121.551925
+1965,95969,Paradise,Butte,Standard,1965,39.716846,-121.64618
+1966,95970,Princeton,Colusa,Standard,1966,39.398424,-122.060946
+1967,95971,Quincy,Plumas,Standard,1967,39.940063,-120.891327
+1968,95973,Chico,Butte,Standard,1968,39.891624,-121.841982
+1969,95975,Rough And Ready,Nevada,Standard,1969,39.224353,-121.151593
+1970,95977,Smartsville,Nevada,Standard,1970,39.176595,-121.291692
+1971,95979,Stonyford,Colusa,Standard,1971,39.302035,-122.51116
+1972,95981,Strawberry Valley,Yuba,Standard,1972,39.679484,-120.998573
+1973,95982,Sutter,Sutter,Standard,1973,39.172726,-121.805819
+1974,95983,Taylorsville,Plumas,Standard,1974,40.077884,-120.707289
+1975,95987,Williams,Colusa,Standard,1975,39.105126,-122.283003
+1976,95988,Willows,Glenn,Standard,1976,39.491654,-122.26208
+1977,95991,Yuba City,Sutter,Standard,1977,38.994127,-121.594574
+1978,95993,Yuba City,Sutter,Standard,1978,39.082497,-121.680114
+1979,96001,Redding,Shasta,Standard,1979,40.601778,-122.454973
+1980,96002,Redding,Shasta,Standard,1980,40.527834,-122.318749
+1981,96003,Redding,Shasta,Standard,1981,40.751937,-122.230678
+1982,96006,Adin,Modoc,Standard,1982,41.135964,-120.840063
+1983,96007,Anderson,Shasta,Standard,1983,40.458029,-122.27783
+1984,96008,Bella Vista,Shasta,Standard,1984,40.704869,-122.120038
+1985,96010,Big Bar,Trinity,Standard,1985,40.91378,-123.307421
+1986,96013,Burney,Shasta,Standard,1986,40.973657,-121.692399
+1987,96014,Callahan,Siskiyou,Standard,1987,41.326646,-122.773654
+1988,96015,Canby,Modoc,Standard,1988,41.487278,-120.912416
+1989,96016,Cassel,Shasta,Standard,1989,40.894269,-121.50702
+1990,96017,Castella,Shasta,Standard,1990,41.076875,-122.253652
+1991,96019,Shasta Lake,Shasta,Standard,1991,40.676564,-122.380909
+1992,96020,Chester,Plumas,Standard,1992,40.39792,-121.298384
+1993,96021,Corning,Tehama,Standard,1993,39.923446,-122.270806
+1994,96022,Cottonwood,Shasta,Standard,1994,40.336387,-122.448511
+1995,96023,Dorris,Siskiyou,Standard,1995,41.928894,-121.906809
+1996,96024,Douglas City,Trinity,Standard,1996,40.54663,-122.880891
+1997,96025,Dunsmuir,Siskiyou,Standard,1997,41.209942,-122.307935
+1998,96027,Etna,Siskiyou,Standard,1998,41.399483,-123.068855
+1999,96028,Fall River Mills,Shasta,Standard,1999,41.006417,-121.480741
+2000,96029,Flournoy,Tehama,Standard,2000,39.94026,-122.4892
+2001,96031,Forks Of Salmon,Siskiyou,Standard,2001,41.186066,-123.181796
+2002,96032,Fort Jones,Siskiyou,Standard,2002,41.609516,-122.963525
+2003,96033,French Gulch,Shasta,Standard,2003,40.781633,-122.584148
+2004,96034,Gazelle,Siskiyou,Standard,2004,41.428284,-122.609441
+2005,96035,Gerber,Tehama,Standard,2005,40.045637,-122.184859
+2006,96038,Grenada,Siskiyou,Standard,2006,41.6071,-122.545715
+2007,96039,Happy Camp,Siskiyou,Standard,2007,41.687905,-123.483269
+2008,96040,Hat Creek,Shasta,Standard,2008,40.793535,-121.438607
+2009,96041,Hayfork,Trinity,Standard,2009,40.525723,-123.193917
+2010,96044,Hornbrook,Siskiyou,Standard,2010,41.93095,-122.510081
+2011,96047,Igo,Shasta,Standard,2011,40.471076,-122.660955
+2012,96048,Junction City,Trinity,Standard,2012,40.829014,-123.022859
+2013,96050,Klamath River,Siskiyou,Standard,2013,41.89888,-122.888552
+2014,96051,Lakehead,Shasta,Standard,2014,40.9332,-122.382788
+2015,96052,Lewiston,Trinity,Standard,2015,40.738391,-122.821085
+2016,96055,Los Molinos,Tehama,Standard,2016,40.103236,-122.074735
+2017,96056,Mcarthur,Shasta,Standard,2017,41.028176,-121.308316
+2018,96057,Mccloud,Siskiyou,Standard,2018,41.268682,-121.93094
+2019,96058,Macdoel,Siskiyou,Standard,2019,41.727044,-121.907369
+2020,96059,Manton,Tehama,Standard,2020,40.421637,-121.833052
+2021,96061,Mill Creek,Tehama,Standard,2021,40.338068,-121.479071
+2022,96062,Millville,Shasta,Standard,2022,40.580119,-122.041403
+2023,96064,Montague,Siskiyou,Standard,2023,41.754853,-122.365534
+2024,96065,Montgomery Creek,Shasta,Standard,2024,40.87908,-121.893264
+2025,96067,Mount Shasta,Siskiyou,Standard,2025,41.314337,-122.380798
+2026,96069,Oak Run,Shasta,Standard,2026,40.685336,-122.016069
+2027,96071,Old Station,Shasta,Standard,2027,40.663854,-121.46106
+2028,96073,Palo Cedro,Shasta,Standard,2028,40.603066,-122.186657
+2029,96075,Paynes Creek,Tehama,Standard,2029,40.343242,-121.852205
+2030,96076,Platina,Shasta,Standard,2030,40.391542,-122.937883
+2031,96080,Red Bluff,Tehama,Standard,2031,40.18189,-122.377104
+2032,96085,Scott Bar,Siskiyou,Standard,2032,41.740719,-123.077404
+2033,96086,Seiad Valley,Siskiyou,Standard,2033,41.92416,-123.260782
+2034,96088,Shingletown,Shasta,Standard,2034,40.51087,-121.876112
+2035,96091,Trinity Center,Trinity,Standard,2035,41.034706,-122.791321
+2036,96094,Weed,Siskiyou,Standard,2036,41.456579,-122.469367
+2037,96096,Whitmore,Shasta,Standard,2037,40.654093,-121.822848
+2038,96097,Yreka,Siskiyou,Standard,2038,41.756147,-122.659466
+2039,96101,Alturas,Modoc,Standard,2039,41.452711,-120.53846
+2040,96103,Blairsden Graeagle,Plumas,Standard,2040,39.805581,-120.66596
+2041,96104,Cedarville,Modoc,Standard,2041,41.506276,-120.143106
+2042,96105,Chilcoot,Plumas,Standard,2042,39.753579,-120.054995
+2043,96107,Coleville,Mono,Standard,2043,38.425282,-119.475743
+2044,96108,Davis Creek,Modoc,Standard,2044,41.770116,-120.431104
+2045,96109,Doyle,Lassen,Standard,2045,40.019715,-120.099183
+2046,96112,Fort Bidwell,Modoc,Standard,2046,41.858844,-120.104998
+2047,96114,Janesville,Lassen,Standard,2047,40.296745,-120.499838
+2048,96115,Lake City,Modoc,Standard,2048,41.70183,-120.134337
+2049,96117,Litchfield,Lassen,Standard,2049,40.533462,-120.235356
+2050,96118,Loyalton,Sierra,Standard,2050,39.639597,-120.247144
+2051,96120,Markleeville,Alpine,Standard,2051,38.743384,-119.867624
+2052,96121,Milford,Lassen,Standard,2052,40.164393,-120.380042
+2053,96122,Portola,Plumas,Standard,2053,39.825228,-120.477053
+2054,96123,Ravendale,Lassen,Standard,2054,40.728194,-120.39628
+2055,96124,Calpine,Sierra,Standard,2055,39.641871,-120.445264
+2056,96125,Sierra City,Sierra,Standard,2056,39.602711,-120.63615
+2057,96128,Standish,Lassen,Standard,2057,40.358768,-120.408154
+2058,96129,Beckwourth,Plumas,Standard,2058,39.78927,-120.357278
+2059,96130,Susanville,Lassen,Standard,2059,40.551757,-120.675673
+2060,96132,Termo,Lassen,Standard,2060,40.914751,-120.402175
+2061,96133,Topaz,Mono,Standard,2061,38.620964,-119.505184
+2062,96134,Tulelake,Siskiyou,Standard,2062,41.767323,-121.440546
+2063,96136,Wendel,Lassen,Standard,2063,40.345753,-120.081154
+2064,96137,Westwood,Lassen,Standard,2064,40.270731,-121.039461
+2065,96146,Olympic Valley,Placer,Standard,2065,39.198047,-120.237787
+2066,96150,South Lake Tahoe,El Dorado,Standard,2066,38.869825,-120.008594
+2067,96161,Truckee,Nevada,Standard,2067,39.313089,-120.207783
